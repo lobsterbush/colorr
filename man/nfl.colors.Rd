@@ -4,11 +4,13 @@
 \alias{nfl.colors}
 \title{NFL colors}
 \usage{
-nfl.colors(set = c("cardinals", "falcons", "ravens", "bills", "panthers",
-  "bears", "bengals", "browns", "cowboys", "broncos", "lions", "packers",
-  "texans", "colts", "jaguars", "chiefs", "chargers", "rams", "dolphins",
-  "vikings", "patriots", "saints", "giants", "jets", "raiders", "eagles",
-  "steelers", "niners", "seahawks", "buccaneers", "titans", "redskins"))
+nfl.colors(
+  set = c("cardinals", "falcons", "ravens", "bills", "panthers", "bears", "bengals",
+    "browns", "cowboys", "broncos", "lions", "packers", "texans", "colts", "jaguars",
+    "chiefs", "chargers", "rams", "dolphins", "vikings", "patriots", "saints", "giants",
+    "jets", "raiders", "eagles", "steelers", "niners", "seahawks", "buccaneers",
+    "titans", "redskins")
+)
 }
 \arguments{
 \item{set}{Character string denoting an NFL team's color palette.}
@@ -31,5 +33,5 @@ pie(rep(1, length(pal)), labels = sprintf("\%d (\%s)", seq_along(pal), pal), col
 }
 }
 \author{
-Charles Crabtree \email{ccrabtr@umich.edu}
+Charles Crabtree \email{charles.crabtree@monash.edu}
 }

@@ -4,11 +4,12 @@
 \alias{mlb.colors}
 \title{MLB colors}
 \usage{
-mlb.colors(set = c("diamondbacks", "braves", "orioles", "red_sox", "cubs",
-  "white_sox", "reds", "indians", "rockies", "tigers", "astros", "royals",
-  "angels", "dodgers", "marlins", "brewers", "twins", "mets", "yankees",
-  "athletics", "phillies", "pirates", "padres", "giants", "mariners",
-  "cardinals", "rays", "rangers", "blue_jays", "nationals"))
+mlb.colors(
+  set = c("diamondbacks", "braves", "orioles", "red_sox", "cubs", "white_sox", "reds",
+    "indians", "rockies", "tigers", "astros", "royals", "angels", "dodgers", "marlins",
+    "brewers", "twins", "mets", "yankees", "athletics", "phillies", "pirates", "padres",
+    "giants", "mariners", "cardinals", "rays", "rangers", "blue_jays", "nationals")
+)
 }
 \arguments{
 \item{set}{Character string denoting an MLB team's color palette.}
@@ -31,5 +32,5 @@ pie(rep(1, length(pal)), labels = sprintf("\%d (\%s)", seq_along(pal), pal), col
 }
 }
 \author{
-Charles Crabtree \email{ccrabtr@umich.edu}
+Charles Crabtree \email{charles.crabtree@monash.edu}
 }

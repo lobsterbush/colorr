@@ -4,11 +4,12 @@
 \alias{nba.colors}
 \title{NBA colors}
 \usage{
-nba.colors(set = c("hawks", "hornets", "mavs", "warriors", "clippers", "heat",
-  "pelicans", "magic", "blazers", "raptors", "celtics", "bulls", "nuggets",
-  "rockets", "lakers", "bucks", "knicks", "sixers", "kings", "jazz", "nets",
-  "cavs", "pistons", "pacers", "grizzlies", "wolves", "thunder", "suns",
-  "spurs", "wizards", "sonics"))
+nba.colors(
+  set = c("hawks", "hornets", "mavs", "warriors", "clippers", "heat", "pelicans",
+    "magic", "blazers", "raptors", "celtics", "bulls", "nuggets", "rockets", "lakers",
+    "bucks", "knicks", "sixers", "kings", "jazz", "nets", "cavs", "pistons", "pacers",
+    "grizzlies", "wolves", "thunder", "suns", "spurs", "wizards", "sonics")
+)
 }
 \arguments{
 \item{set}{Character string denoting an NBA team's color palette.}
@@ -31,5 +32,5 @@ pie(rep(1, length(pal)), labels = sprintf("\%d (\%s)", seq_along(pal), pal), col
 }
 }
 \author{
-Charles Crabtree \email{ccrabtr@umich.edu}
+Charles Crabtree \email{charles.crabtree@monash.edu}
 }

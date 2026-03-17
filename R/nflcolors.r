@@ -1,7 +1,7 @@
 #--- NFL colors function --#
 #'@title NFL colors
 #'@description Function returns a vector of character strings from a selected NFL team's color palette. The team options are c("cardinals", "falcons", "ravens", "bills", "panthers", "bears", "bengals", "browns", "cowboys", "broncos", "lions", "packers", "texans", "colts", "jaguars", "chiefs", "chargers", "rams", "dolphins", "vikings", "patriots", "saints", "giants", "jets", "raiders", "eagles", "steelers", "niners", "seahawks", "buccaneers", "titans", "redskins").
-#'@author Charles Crabtree \email{ccrabtr@umich.edu}
+#'@author Charles Crabtree \email{charles.crabtree@monash.edu}
 #'@param set Character string denoting an NFL team's color palette.
 #'@return Vector of character strings from the selected NFL team's color palette.
 #'@examples

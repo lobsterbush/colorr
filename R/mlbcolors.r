@@ -1,7 +1,7 @@
 #--- MLB colors function --#
 #'@title MLB colors
 #'@description Function returns a vector of character strings from a selected MLB team's color palette. The team options are c("diamondbacks", "braves", "orioles", "red_sox", "cubs", "white_sox", "reds", "indians", "rockies", "tigers", "astros", "royals", "angels", "dodgers", "marlins", "brewers", "twins", "mets", "yankees", "athletics", "phillies", "pirates", "padres", "giants", "mariners", "cardinals", "rays", "rangers", "blue_jays", "nationals").
-#'@author Charles Crabtree \email{ccrabtr@umich.edu}
+#'@author Charles Crabtree \email{charles.crabtree@monash.edu}
 #'@param set Character string denoting an MLB team's color palette.
 #'@return Vector of character strings from the selected MLB team's color palette.
 #'@examples

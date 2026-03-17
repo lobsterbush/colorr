@@ -1,7 +1,7 @@
 #--- EPL colors function --#
 #'@title EPL colors
 #'@description Function returns a vector of character strings from a selected EPL team's color palette. The team options are c("arsenal", "bournemouth", "burnley", "chelsea", "crystal_palace", "everton", "hull", "leicester", "liverpool", "man_city", "man_united", "middlesbrough", "southampton", "stoke_city", "sunderland", "swansea_city", "tottenham", "watford", "west_bromich_albion", "west_ham").
-#'@author Charles Crabtree \email{ccrabtr@umich.edu}
+#'@author Charles Crabtree \email{charles.crabtree@monash.edu}
 #'@param set Character string denoting an EPL team's color palette.
 #'@return Vector of character strings from the selected EPL team's color palette.
 #'@examples

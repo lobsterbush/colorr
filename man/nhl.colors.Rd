@@ -4,11 +4,13 @@
 \alias{nhl.colors}
 \title{NHL colors}
 \usage{
-nhl.colors(set = c("ducks", "coyotes", "bruins", "sabres", "flames",
-  "hurricanes", "blackhawks", "avalanche", "blue_jackets", "stars", "red_wings",
-  "oilers", "panthers", "kings", "wild", "canadiens", "predators", "devils",
-  "islanders", "rangers", "senators", "flyers", "penguins", "sharks", "blues",
-  "lightning", "maple_leafs", "canucks", "golden_knights", "capitals", "jets"))
+nhl.colors(
+  set = c("ducks", "coyotes", "bruins", "sabres", "flames", "hurricanes", "blackhawks",
+    "avalanche", "blue_jackets", "stars", "red_wings", "oilers", "panthers", "kings",
+    "wild", "canadiens", "predators", "devils", "islanders", "rangers", "senators",
+    "flyers", "penguins", "sharks", "blues", "lightning", "maple_leafs", "canucks",
+    "golden_knights", "capitals", "jets")
+)
 }
 \arguments{
 \item{set}{Character string denoting an NHL team's color palette.}
@@ -31,5 +33,5 @@ pie(rep(1, length(pal)), labels = sprintf("\%d (\%s)", seq_along(pal), pal), col
 }
 }
 \author{
-Charles Crabtree \email{ccrabtr@umich.edu}
+Charles Crabtree \email{charles.crabtree@monash.edu}
 }

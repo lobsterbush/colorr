@@ -1,7 +1,7 @@
 #--- NHL colors function --#
 #'@title NHL colors
 #'@description Function returns a vector of character strings from a selected NHL team's color palette. The team options are c("ducks", "coyotes", "bruins", "sabres", "flames", "hurricanes", "blackhawks", "avalanche", "blue_jackets", "stars", "red_wings", "oilers", "panthers", "kings", "wild", "canadiens", "predators", "devils", "islanders", "rangers", "senators", "flyers", "penguins", "sharks", "blues", "lightning", "maple_leafs", "canucks", "golden_knights", "capitals", "jets").
-#'@author Charles Crabtree \email{ccrabtr@umich.edu}
+#'@author Charles Crabtree \email{charles.crabtree@monash.edu}
 #'@param set Character string denoting an NHL team's color palette.
 #'@return Vector of character strings from the selected NHL team's color palette.
 #'@examples

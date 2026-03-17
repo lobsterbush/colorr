@@ -4,10 +4,12 @@
 \alias{epl.colors}
 \title{EPL colors}
 \usage{
-epl.colors(set = c("arsenal", "bournemouth", "burnley", "chelsea",
-  "crystal_palace", "everton", "hull", "leicester", "liverpool", "man_city",
-  "man_united", "middlesbrough", "southampton", "stoke_city", "sunderland",
-  "swansea_city", "tottenham", "watford", "west_bromich_albion", "west_ham"))
+epl.colors(
+  set = c("arsenal", "bournemouth", "burnley", "chelsea", "crystal_palace", "everton",
+    "hull", "leicester", "liverpool", "man_city", "man_united", "middlesbrough",
+    "southampton", "stoke_city", "sunderland", "swansea_city", "tottenham", "watford",
+    "west_bromich_albion", "west_ham")
+)
 }
 \arguments{
 \item{set}{Character string denoting an EPL team's color palette.}
@@ -30,5 +32,5 @@ pie(rep(1, length(pal)), labels = sprintf("\%d (\%s)", seq_along(pal), pal), col
 }
 }
 \author{
-Charles Crabtree \email{ccrabtr@umich.edu}
+Charles Crabtree \email{charles.crabtree@monash.edu}
 }

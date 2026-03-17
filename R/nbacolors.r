@@ -1,7 +1,7 @@
 #--- NBA colors function --#
 #'@title NBA colors
 #'@description Function returns a vector of character strings from a selected NBA team's color palette. The team options are c("hawks", "hornets", "mavs", "warriors", "clippers", "heat", "pelicans", "magic", "blazers", "raptors", "celtics", "bulls", "nuggets", "rockets", "lakers", "bucks", "knicks", "sixers", "kings", "jazz", "nets", "cavs", "pistons", "pacers", "grizzlies", "wolves", "thunder", "suns", "spurs", "wizards", "sonics")
-#'@author Charles Crabtree \email{ccrabtr@umich.edu}
+#'@author Charles Crabtree \email{charles.crabtree@monash.edu}
 #'@param set Character string denoting an NBA team's color palette.
 #'@return Vector of character strings from the selected NBA team's color palette.
 #'@examples
