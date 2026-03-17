@@ -10,5 +10,5 @@ Description: Color palettes for English Premier League ('EPL'), Major League
 License: MIT + file LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.3.3
-URL: https://github.com/cdcrabtree/colorr
-BugReports: https://github.com/cdcrabtree/colorr/issues
+URL: https://github.com/lobsterbush/colorr
+BugReports: https://github.com/lobsterbush/colorr/issues
