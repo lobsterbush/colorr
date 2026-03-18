@@ -1,15 +1,16 @@
-## Resubmission
-This is a resubmission. In this version I have:
+## R CMD check results
 
-* Deleted empty line in LICENSE file.
+0 errors | 0 warnings | 0 notes
 
 ## Test environments
-* local OS X install
-* ubuntu 12.04 (on travis-ci)
-* Visual Studio 2015 (on appveyor)
 
-## R CMD check results
-There were no ERRORs, WARNINGs or NOTEs.
+* local macOS (aarch64-apple-darwin20), R 4.5.2
+
+## Notes
+
+This is a resubmission. The package was previously archived on CRAN.
+Updated maintainer email and repository URLs.
 
 ## Downstream dependencies
-I have also run R CMD check on downstream dependencies of plotrr with devtools::revdep_check(). All packages that I could install passed.
+
+None.

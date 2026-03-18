@@ -6,3 +6,5 @@
 ^_config\.yml$
 ^\.gitattributes\.R$
 ^cran-comments\.md$
+^NEWS\.md$
+^WARP\.md$
