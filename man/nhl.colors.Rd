@@ -5,32 +5,44 @@
 \title{NHL colors}
 \usage{
 nhl.colors(
-  set = c("ducks", "coyotes", "bruins", "sabres", "flames", "hurricanes", "blackhawks",
-    "avalanche", "blue_jackets", "stars", "red_wings", "oilers", "panthers", "kings",
-    "wild", "canadiens", "predators", "devils", "islanders", "rangers", "senators",
-    "flyers", "penguins", "sharks", "blues", "lightning", "maple_leafs", "canucks",
-    "golden_knights", "capitals", "jets")
+  set = c("avalanche", "blackhawks", "blue_jackets", "blues", "bruins", "canadiens",
+    "canucks", "capitals", "coyotes", "devils", "ducks", "flames", "flyers",
+    "golden_knights", "hurricanes", "islanders", "jets", "kings", "kraken", "lightning",
+    "maple_leafs", "oilers", "panthers", "penguins", "predators", "rangers", "red_wings",
+    "sabres", "senators", "sharks", "stars", "utah", "wild"),
+  legacy = FALSE
 )
 }
 \arguments{
-\item{set}{Character string denoting an NHL team's color palette.}
+\item{set}{Character string naming an NHL team.}
+
+\item{legacy}{Logical. If \code{TRUE}, return the palette that shipped with colorr
+1.0.1 instead of the current one, so older figures stay reproducible. Not every
+team has a legacy palette; teams added since 1.0.1 will throw an error.}
 }
 \value{
-Vector of character strings from the selected NHL team's color palette.
+Named character vector of hex color strings.
 }
 \description{
-Function returns a vector of character strings from a selected NHL team's color palette. The team options are c("ducks", "coyotes", "bruins", "sabres", "flames", "hurricanes", "blackhawks", "avalanche", "blue_jackets", "stars", "red_wings", "oilers", "panthers", "kings", "wild", "canadiens", "predators", "devils", "islanders", "rangers", "senators", "flyers", "penguins", "sharks", "blues", "lightning", "maple_leafs", "canucks", "golden_knights", "capitals", "jets").
+Returns a named character vector of hex colors for an NHL team. Teams cover
+ the 2026-27 NHL season, plus the Arizona Coyotes.
+ Call \code{colorr.teams("nhl")} for the full list of team names.
 }
 \examples{
-\dontrun{
 # Anaheim Ducks colors
-(pal = nhl.colors("ducks"))
+pal <- nhl.colors("ducks")
+pal
 pie(rep(1, length(pal)), labels = sprintf("\%d (\%s)", seq_along(pal), pal), col = pal)
 
-# Colorado Avalanche colors
-(pal = nhl.colors("avalanche"))
-pie(rep(1, length(pal)), labels = sprintf("\%d (\%s)", seq_along(pal), pal), col = pal)
+# Utah Mammoth colors
+nhl.colors("utah")
+
+# the palette that shipped with colorr 1.0.1
+nhl.colors("ducks", legacy = TRUE)
 }
+\seealso{
+\code{\link{colorr.teams}} to list teams, \code{\link{scale_fill_nhl}} for the
+ ggplot2 scales.
 }
 \author{
 Charles Crabtree \email{charles.crabtree@monash.edu}

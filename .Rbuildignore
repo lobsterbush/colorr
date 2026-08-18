@@ -8,3 +8,7 @@
 ^cran-comments\.md$
 ^NEWS\.md$
 ^WARP\.md$
+^CRAN-SUBMISSION$
+^data-raw$
+^\.DS_Store$
+^\.github$

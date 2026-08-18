@@ -5,31 +5,45 @@
 \title{EPL colors}
 \usage{
 epl.colors(
-  set = c("arsenal", "bournemouth", "burnley", "chelsea", "crystal_palace", "everton",
-    "hull", "leicester", "liverpool", "man_city", "man_united", "middlesbrough",
-    "southampton", "stoke_city", "sunderland", "swansea_city", "tottenham", "watford",
-    "west_bromich_albion", "west_ham")
+  set = c("arsenal", "aston_villa", "bournemouth", "brentford", "brighton", "burnley",
+    "chelsea", "coventry_city", "crystal_palace", "everton", "fulham", "hull",
+    "ipswich_town", "leeds_united", "leicester", "liverpool", "man_city", "man_united",
+    "middlesbrough", "newcastle", "nottingham_forest", "southampton", "stoke_city",
+    "sunderland", "swansea_city", "tottenham", "watford", "west_bromich_albion",
+    "west_ham"),
+  legacy = FALSE
 )
 }
 \arguments{
-\item{set}{Character string denoting an EPL team's color palette.}
+\item{set}{Character string naming an EPL team.}
+
+\item{legacy}{Logical. If \code{TRUE}, return the palette that shipped with colorr
+1.0.1 instead of the current one, so older figures stay reproducible. Not every
+team has a legacy palette; teams added since 1.0.1 will throw an error.}
 }
 \value{
-Vector of character strings from the selected EPL team's color palette.
+Named character vector of hex color strings.
 }
 \description{
-Function returns a vector of character strings from a selected EPL team's color palette. The team options are c("arsenal", "bournemouth", "burnley", "chelsea", "crystal_palace", "everton", "hull", "leicester", "liverpool", "man_city", "man_united", "middlesbrough", "southampton", "stoke_city", "sunderland", "swansea_city", "tottenham", "watford", "west_bromich_albion", "west_ham").
+Returns a named character vector of hex colors for an EPL team. Teams cover
+ the 2026-27 Premier League season, plus every club that appeared in colorr 1.0.1.
+ Call \code{colorr.teams("epl")} for the full list of team names.
 }
 \examples{
-\dontrun{
 # Manchester United colors
-(pal = epl.colors("man_united"))
+pal <- epl.colors("man_united")
+pal
 pie(rep(1, length(pal)), labels = sprintf("\%d (\%s)", seq_along(pal), pal), col = pal)
 
-# Tottenham colors
-(pal = epl.colors("tottenham"))
-pie(rep(1, length(pal)), labels = sprintf("\%d (\%s)", seq_along(pal), pal), col = pal)
+# Tottenham Hotspur colors
+epl.colors("tottenham")
+
+# the palette that shipped with colorr 1.0.1
+epl.colors("man_united", legacy = TRUE)
 }
+\seealso{
+\code{\link{colorr.teams}} to list teams, \code{\link{scale_fill_epl}} for the
+ ggplot2 scales.
 }
 \author{
 Charles Crabtree \email{charles.crabtree@monash.edu}

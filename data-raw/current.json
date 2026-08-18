@@ -1,0 +1,5188 @@
+{
+ "epl": {
+  "arsenal": {
+   "name": "Arsenal",
+   "colors": [
+    [
+     "Red",
+     "#EF0107"
+    ],
+    [
+     "Dark Red",
+     "#DB0007"
+    ],
+    [
+     "Blue",
+     "#063672"
+    ],
+    [
+     "Gold",
+     "#9C824A"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "aston_villa": {
+   "name": "Aston Villa",
+   "colors": [
+    [
+     "Blue",
+     "#95BFE5"
+    ],
+    [
+     "Claret",
+     "#670E36"
+    ],
+    [
+     "Yellow",
+     "#FEE505"
+    ]
+   ]
+  },
+  "bournemouth": {
+   "name": "AFC Bournemouth",
+   "colors": [
+    [
+     "Red",
+     "#DA291C"
+    ],
+    [
+     "Dark Red",
+     "#B50E12"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Light Gold",
+     "#EFDBB2"
+    ],
+    [
+     "Dark Gold",
+     "#A89968"
+    ]
+   ]
+  },
+  "brentford": {
+   "name": "Brentford",
+   "colors": [
+    [
+     "Red",
+     "#D20000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Off White",
+     "#E9E5DA"
+    ],
+    [
+     "Orange",
+     "#FFB400"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "brighton": {
+   "name": "Brighton & Hove Albion",
+   "colors": [
+    [
+     "Blue",
+     "#0A56A3"
+    ],
+    [
+     "Yellow",
+     "#FFCD00"
+    ]
+   ]
+  },
+  "chelsea": {
+   "name": "Chelsea",
+   "colors": [
+    [
+     "Blue",
+     "#034694"
+    ],
+    [
+     "Red",
+     "#EE242C"
+    ],
+    [
+     "Gold",
+     "#DBA111"
+    ],
+    [
+     "Light Blue",
+     "#6A7AB5"
+    ],
+    [
+     "Gray",
+     "#D1D3D4"
+    ]
+   ]
+  },
+  "coventry_city": {
+   "name": "Coventry City",
+   "colors": [
+    [
+     "Sky Blue",
+     "#059DD9"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "crystal_palace": {
+   "name": "Crystal Palace",
+   "colors": [
+    [
+     "Blue",
+     "#1B458F"
+    ],
+    [
+     "Gray",
+     "#A7A5A6"
+    ],
+    [
+     "Red",
+     "#C4122E"
+    ]
+   ]
+  },
+  "everton": {
+   "name": "Everton",
+   "colors": [
+    [
+     "Blue",
+     "#003399"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "fulham": {
+   "name": "Fulham",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Red",
+     "#CC0000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "hull": {
+   "name": "Hull City",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Blue",
+     "#F18A01"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "ipswich_town": {
+   "name": "Ipswich Town",
+   "colors": [
+    [
+     "Blue",
+     "#3A64A3"
+    ],
+    [
+     "Red",
+     "#DE2C37"
+    ],
+    [
+     "White",
+     "#FEFEFE"
+    ]
+   ]
+  },
+  "leeds_united": {
+   "name": "Leeds United",
+   "colors": [
+    [
+     "Yellow",
+     "#FFCD00"
+    ],
+    [
+     "Blue",
+     "#1D428A"
+    ],
+    [
+     "100th Anniversary Gold",
+     "#AC944D"
+    ]
+   ]
+  },
+  "liverpool": {
+   "name": "Liverpool",
+   "colors": [
+    [
+     "Red",
+     "#C8102E"
+    ],
+    [
+     "Green",
+     "#00B2A9"
+    ],
+    [
+     "Gold",
+     "#F6EB61"
+    ]
+   ]
+  },
+  "man_city": {
+   "name": "Manchester City",
+   "colors": [
+    [
+     "Sky Blue",
+     "#6CABDD"
+    ],
+    [
+     "Blue",
+     "#1C2C5B"
+    ],
+    [
+     "Gold",
+     "#FFC659"
+    ],
+    [
+     "Dark Gold",
+     "#D4A12A"
+    ],
+    [
+     "Red",
+     "#EC3325"
+    ]
+   ]
+  },
+  "man_united": {
+   "name": "Manchester United",
+   "colors": [
+    [
+     "Red",
+     "#DA291C"
+    ],
+    [
+     "Yellow",
+     "#FBE122"
+    ]
+   ]
+  },
+  "newcastle": {
+   "name": "Newcastle United",
+   "colors": [
+    [
+     "Black",
+     "#241F20"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Blue",
+     "#41B6E6"
+    ],
+    [
+     "Gold",
+     "#F1BE48"
+    ],
+    [
+     "Gray",
+     "#BBBCBC"
+    ],
+    [
+     "Red",
+     "#F9423A"
+    ]
+   ]
+  },
+  "nottingham_forest": {
+   "name": "Nottingham Forest",
+   "colors": [
+    [
+     "Red",
+     "#DD0000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "sunderland": {
+   "name": "Sunderland",
+   "colors": [
+    [
+     "Red",
+     "#EB172B"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Gold",
+     "#A68A26"
+    ],
+    [
+     "Pale Gold",
+     "#D1BF7F"
+    ],
+    [
+     "Black",
+     "#211E1E"
+    ]
+   ]
+  },
+  "tottenham": {
+   "name": "Tottenham Hotspur",
+   "colors": [
+    [
+     "Navy Blue",
+     "#132257"
+    ]
+   ]
+  },
+  "burnley": {
+   "name": "Burnley",
+   "colors": [
+    [
+     "Burgundy",
+     "#6C1D45"
+    ],
+    [
+     "Light Blue",
+     "#99D6EA"
+    ],
+    [
+     "Yellow",
+     "#EDE939"
+    ],
+    [
+     "Gold",
+     "#F0B323"
+    ]
+   ]
+  },
+  "leicester": {
+   "name": "Leicester City",
+   "colors": [
+    [
+     "Blue",
+     "#003090"
+    ],
+    [
+     "Gold",
+     "#FDBE11"
+    ]
+   ]
+  },
+  "middlesbrough": {
+   "name": "Middlesbrough",
+   "colors": [
+    [
+     "Red",
+     "#DE1B22"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "southampton": {
+   "name": "Southampton",
+   "colors": [
+    [
+     "Red",
+     "#D71920"
+    ],
+    [
+     "Black",
+     "#130C0E"
+    ],
+    [
+     "Yellow",
+     "#FFC20E"
+    ],
+    [
+     "Blue",
+     "#00AEEF"
+    ],
+    [
+     "Green",
+     "#0DB14B"
+    ]
+   ]
+  },
+  "stoke_city": {
+   "name": "Stoke City",
+   "colors": [
+    [
+     "Red",
+     "#E03A3E"
+    ],
+    [
+     "Blue",
+     "#1B449C"
+    ]
+   ]
+  },
+  "swansea_city": {
+   "name": "Swansea City",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "watford": {
+   "name": "Watford",
+   "colors": [
+    [
+     "Yellow",
+     "#FBEE23"
+    ],
+    [
+     "Red",
+     "#ED2127"
+    ],
+    [
+     "Black",
+     "#11210C"
+    ]
+   ]
+  },
+  "west_bromich_albion": {
+   "name": "West Bromwich Albion",
+   "colors": [
+    [
+     "Blue",
+     "#122F67"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "west_ham": {
+   "name": "West Ham United",
+   "colors": [
+    [
+     "Maroon",
+     "#7A263A"
+    ],
+    [
+     "Blue",
+     "#1BB1E7"
+    ],
+    [
+     "Yellow",
+     "#F3D459"
+    ]
+   ]
+  }
+ },
+ "laliga": {
+  "alaves": {
+   "name": "Deportivo Alaves",
+   "colors": [
+    [
+     "Royal Blue",
+     "#0761AF"
+    ],
+    [
+     "Light Blue",
+     "#009AD7"
+    ]
+   ]
+  },
+  "athletic_bilbao": {
+   "name": "Athletic Bilbao",
+   "colors": [
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Red",
+     "#EE2523"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "atletico_madrid": {
+   "name": "Atletico Madrid",
+   "colors": [
+    [
+     "Navy Blue",
+     "#272E61"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Red",
+     "#CB3524"
+    ]
+   ]
+  },
+  "barcelona": {
+   "name": "FC Barcelona",
+   "colors": [
+    [
+     "Gold",
+     "#EDBB00"
+    ],
+    [
+     "Blue",
+     "#004D98"
+    ],
+    [
+     "Burgundy",
+     "#A50044"
+    ],
+    [
+     "Red",
+     "#DB0030"
+    ],
+    [
+     "Yellow",
+     "#FFED02"
+    ],
+    [
+     "Buy Matching Paint",
+     "#FFDD00"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "celta_vigo": {
+   "name": "Celta Vigo",
+   "colors": [
+    [
+     "Blue",
+     "#8AC3EE"
+    ],
+    [
+     "Red",
+     "#E5254E"
+    ],
+    [
+     "Gold",
+     "#B19221"
+    ]
+   ]
+  },
+  "deportivo": {
+   "name": "Deportivo La Coruna",
+   "colors": [
+    [
+     "Purple",
+     "#57175E"
+    ],
+    [
+     "Gold",
+     "#A38D44"
+    ],
+    [
+     "Blue",
+     "#B9D9EC"
+    ],
+    [
+     "Red",
+     "#DB5232"
+    ]
+   ]
+  },
+  "elche": {
+   "name": "Elche CF",
+   "colors": [
+    [
+     "Dark Gold",
+     "#866B10"
+    ],
+    [
+     "Gold",
+     "#E6C777"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Red",
+     "#C5112E"
+    ],
+    [
+     "Blue",
+     "#1B458F"
+    ],
+    [
+     "Green",
+     "#05642C"
+    ]
+   ]
+  },
+  "espanyol": {
+   "name": "RCD Espanyol",
+   "colors": [
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Blue",
+     "#007FC8"
+    ],
+    [
+     "Red",
+     "#DF1116"
+    ],
+    [
+     "Yellow",
+     "#F4CF0C"
+    ]
+   ]
+  },
+  "getafe": {
+   "name": "Getafe CF",
+   "colors": [
+    [
+     "Blue",
+     "#005999"
+    ],
+    [
+     "Red",
+     "#C43A2F"
+    ],
+    [
+     "Yellow",
+     "#FCED0B"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Green",
+     "#7DA738"
+    ]
+   ]
+  },
+  "levante": {
+   "name": "Levante UD",
+   "colors": [
+    [
+     "Maroon",
+     "#B4053F"
+    ],
+    [
+     "Blue",
+     "#005CA5"
+    ],
+    [
+     "Gold",
+     "#DCA43E"
+    ],
+    [
+     "Yellow",
+     "#FAC400"
+    ],
+    [
+     "Gray",
+     "#B2B2B2"
+    ]
+   ]
+  },
+  "malaga": {
+   "name": "Malaga CF",
+   "colors": [
+    [
+     "Dark Red",
+     "#4C2A1F"
+    ],
+    [
+     "Orange",
+     "#C86606"
+    ],
+    [
+     "Gold",
+     "#C39400"
+    ],
+    [
+     "Gold",
+     "#FFF26B"
+    ],
+    [
+     "Black",
+     "#1D1D1B"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Light Blue",
+     "#A7D6F5"
+    ],
+    [
+     "Blue",
+     "#00489A"
+    ]
+   ]
+  },
+  "osasuna": {
+   "name": "CA Osasuna",
+   "colors": [
+    [
+     "Blue",
+     "#0A346F"
+    ],
+    [
+     "Red",
+     "#D91A21"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Gold",
+     "#AD8F1F"
+    ]
+   ]
+  },
+  "racing_santander": {
+   "name": "Racing Santander",
+   "colors": [
+    [
+     "Green",
+     "#45AC34"
+    ],
+    [
+     "Dark Green",
+     "#1C5733"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "rayo_vallecano": {
+   "name": "Rayo Vallecano",
+   "colors": [
+    [
+     "Red",
+     "#E3361D"
+    ],
+    [
+     "Gold",
+     "#C0AE33"
+    ],
+    [
+     "Black",
+     "#251900"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Forest Green",
+     "#008A3A"
+    ]
+   ]
+  },
+  "real_betis": {
+   "name": "Real Betis",
+   "colors": [
+    [
+     "Green",
+     "#0BB363"
+    ],
+    [
+     "Gold",
+     "#E7A614"
+    ],
+    [
+     "Red",
+     "#D62550"
+    ]
+   ]
+  },
+  "real_madrid": {
+   "name": "Real Madrid",
+   "colors": [
+    [
+     "Gold",
+     "#FEBE10"
+    ],
+    [
+     "Blue",
+     "#00529F"
+    ],
+    [
+     "Red",
+     "#EE324E"
+    ]
+   ]
+  },
+  "real_sociedad": {
+   "name": "Real Sociedad",
+   "colors": [
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Blue",
+     "#0067B1"
+    ],
+    [
+     "Yellow",
+     "#E4B630"
+    ],
+    [
+     "Gold",
+     "#D87722"
+    ],
+    [
+     "Red",
+     "#E1061F"
+    ]
+   ]
+  },
+  "sevilla": {
+   "name": "Sevilla FC",
+   "colors": [
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Red",
+     "#F43333"
+    ],
+    [
+     "Gold",
+     "#C79100"
+    ]
+   ]
+  },
+  "valencia": {
+   "name": "Valencia CF",
+   "colors": [
+    [
+     "Blue",
+     "#0097D7"
+    ],
+    [
+     "Yellow",
+     "#FFDF1C"
+    ],
+    [
+     "Red",
+     "#EE3524"
+    ],
+    [
+     "Red-Orange",
+     "#AA2D2A"
+    ],
+    [
+     "Yellow-Orange",
+     "#D18816"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "villarreal": {
+   "name": "Villarreal CF",
+   "colors": [
+    [
+     "Blue",
+     "#005187"
+    ],
+    [
+     "Yellow",
+     "#FFE667"
+    ],
+    [
+     "Red",
+     "#E70005"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  }
+ },
+ "seriea": {
+  "atalanta": {
+   "name": "Atalanta",
+   "colors": [
+    [
+     "Blue",
+     "#1E71B8"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "bologna": {
+   "name": "Bologna",
+   "colors": [
+    [
+     "Navy Blue",
+     "#1A2F48"
+    ],
+    [
+     "Red",
+     "#A21C26"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Light Silver",
+     "#ECECEC"
+    ]
+   ]
+  },
+  "cagliari": {
+   "name": "Cagliari",
+   "colors": [
+    [
+     "Navy Blue",
+     "#002350"
+    ],
+    [
+     "Red",
+     "#AD002A"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "como": {
+   "name": "Como 1907",
+   "colors": [
+    [
+     "Navy Blue",
+     "#10416A"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "fiorentina": {
+   "name": "Fiorentina",
+   "colors": [
+    [
+     "Violet (Purple)",
+     "#482E92"
+    ],
+    [
+     "Gold",
+     "#A29160"
+    ],
+    [
+     "Red",
+     "#EC1C23"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "frosinone": {
+   "name": "Frosinone",
+   "colors": [
+    [
+     "Yellow",
+     "#FFDD00"
+    ],
+    [
+     "Dark Blue",
+     "#004393"
+    ],
+    [
+     "Blue",
+     "#006AB3"
+    ],
+    [
+     "Light Blue",
+     "#C8D6EC"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Grey",
+     "#868889"
+    ]
+   ]
+  },
+  "genoa": {
+   "name": "Genoa",
+   "colors": [
+    [
+     "Red",
+     "#AD1919"
+    ],
+    [
+     "Dark Blue",
+     "#05232F"
+    ],
+    [
+     "Yellow",
+     "#FFD400"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "inter": {
+   "name": "Inter Milan",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Blue",
+     "#010E80"
+    ]
+   ]
+  },
+  "juventus": {
+   "name": "Juventus",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "lazio": {
+   "name": "Lazio",
+   "colors": [
+    [
+     "Sky Blue",
+     "#87D8F7"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Dark Blue",
+     "#15366F"
+    ],
+    [
+     "Gold",
+     "#D7A819"
+    ]
+   ]
+  },
+  "lecce": {
+   "name": "Lecce",
+   "colors": [
+    [
+     "Red",
+     "#ED1B23"
+    ],
+    [
+     "Yellow",
+     "#FFF200"
+    ],
+    [
+     "Blue",
+     "#006086"
+    ],
+    [
+     "Light Brown",
+     "#D1B48F"
+    ]
+   ]
+  },
+  "milan": {
+   "name": "AC Milan",
+   "colors": [
+    [
+     "Red",
+     "#FB090B"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "monza": {
+   "name": "Monza",
+   "colors": [
+    [
+     "Red",
+     "#E4022E"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "napoli": {
+   "name": "Napoli",
+   "colors": [
+    [
+     "Blue",
+     "#003C82"
+    ],
+    [
+     "Light Blue",
+     "#12A0D7"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "parma": {
+   "name": "Parma",
+   "colors": [
+    [
+     "Blue",
+     "#1B4094"
+    ],
+    [
+     "Yellow",
+     "#FFD200"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "roma": {
+   "name": "AS Roma",
+   "colors": [
+    [
+     "Giallo Roma",
+     "#F0BC42"
+    ],
+    [
+     "Rosso Roma",
+     "#8E1F2F"
+    ],
+    [
+     "Gray",
+     "#CACACC"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "sassuolo": {
+   "name": "Sassuolo",
+   "colors": [
+    [
+     "Green",
+     "#00A752"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Grey",
+     "#C7C7C7"
+    ]
+   ]
+  },
+  "torino": {
+   "name": "Torino",
+   "colors": [
+    [
+     "Red",
+     "#8A1E03"
+    ],
+    [
+     "Yellow",
+     "#EEB111"
+    ],
+    [
+     "Blue",
+     "#5E91CC"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "udinese": {
+   "name": "Udinese",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Gold",
+     "#8B7D37"
+    ],
+    [
+     "Grey",
+     "#7F7F7F"
+    ]
+   ]
+  },
+  "venezia": {
+   "name": "Venezia",
+   "colors": [
+    [
+     "Green",
+     "#436817"
+    ],
+    [
+     "Orange",
+     "#EF7D00"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Red",
+     "#AD1917"
+    ],
+    [
+     "Grey",
+     "#696D72"
+    ]
+   ]
+  }
+ },
+ "bundesliga": {
+  "augsburg": {
+   "name": "FC Augsburg",
+   "colors": [
+    [
+     "Red",
+     "#BA3733"
+    ],
+    [
+     "Green",
+     "#46714D"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Yellow",
+     "#FFD42E"
+    ]
+   ]
+  },
+  "union_berlin": {
+   "name": "1. FC Union Berlin",
+   "colors": [
+    [
+     "Red",
+     "#EB1923"
+    ],
+    [
+     "Yellow",
+     "#FDDC02"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "werder_bremen": {
+   "name": "Werder Bremen",
+   "colors": [
+    [
+     "Green",
+     "#009655"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "dortmund": {
+   "name": "Borussia Dortmund",
+   "colors": [
+    [
+     "Yellow",
+     "#FDE100"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "elversberg": {
+   "name": "SV Elversberg",
+   "colors": [
+    [
+     "Gold",
+     "#C8B885"
+    ],
+    [
+     "Black",
+     "#141414"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "eintracht_frankfurt": {
+   "name": "Eintracht Frankfurt",
+   "colors": [
+    [
+     "Red",
+     "#E1000F"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "freiburg": {
+   "name": "SC Freiburg",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Red",
+     "#FD1220"
+    ]
+   ]
+  },
+  "hamburg": {
+   "name": "Hamburger SV",
+   "colors": [
+    [
+     "Blue",
+     "#1E5CB3"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "hoffenheim": {
+   "name": "TSG 1899 Hoffenheim",
+   "colors": [
+    [
+     "Blue",
+     "#1961B5"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "koln": {
+   "name": "1. FC Koln",
+   "colors": [
+    [
+     "Red",
+     "#ED1C24"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "leipzig": {
+   "name": "RB Leipzig",
+   "colors": [
+    [
+     "Red",
+     "#DD013F"
+    ],
+    [
+     "Dark Blue",
+     "#0C2043"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "leverkusen": {
+   "name": "Bayer 04 Leverkusen",
+   "colors": [
+    [
+     "Red",
+     "#E32221"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Yellow",
+     "#F3E500"
+    ]
+   ]
+  },
+  "mainz": {
+   "name": "1. FSV Mainz 05",
+   "colors": [
+    [
+     "Red",
+     "#C3141E"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Gray",
+     "#918F90"
+    ]
+   ]
+  },
+  "monchengladbach": {
+   "name": "Borussia Monchengladbach",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "bayern_munich": {
+   "name": "Bayern Munich",
+   "colors": [
+    [
+     "Blue",
+     "#0066B2"
+    ],
+    [
+     "Red",
+     "#DC052D"
+    ]
+   ]
+  },
+  "paderborn": {
+   "name": "SC Paderborn 07",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Blue",
+     "#005CA8"
+    ]
+   ]
+  },
+  "schalke": {
+   "name": "Schalke 04",
+   "colors": [
+    [
+     "Blue",
+     "#004B9C"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "stuttgart": {
+   "name": "VfB Stuttgart",
+   "colors": [
+    [
+     "Red",
+     "#E32219"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Yellow",
+     "#FFED00"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  }
+ },
+ "ligue1": {
+  "angers": {
+   "name": "Angers SCO",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Gold",
+     "#D9C395"
+    ]
+   ]
+  },
+  "auxerre": {
+   "name": "AJ Auxerre",
+   "colors": [
+    [
+     "Blue",
+     "#1C4F9C"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "brest": {
+   "name": "Stade Brestois 29",
+   "colors": [
+    [
+     "Red",
+     "#ED1C24"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "le_havre": {
+   "name": "Le Havre AC",
+   "colors": [
+    [
+     "Blue",
+     "#003259"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Gold",
+     "#B9955D"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Light Blue",
+     "#8BC4E5"
+    ]
+   ]
+  },
+  "le_mans": {
+   "name": "Le Mans FC",
+   "colors": [
+    [
+     "Red",
+     "#D60000"
+    ],
+    [
+     "Yellow",
+     "#FECB00"
+    ],
+    [
+     "Dark Grey",
+     "#343434"
+    ]
+   ]
+  },
+  "lens": {
+   "name": "RC Lens",
+   "colors": [
+    [
+     "Red",
+     "#EC1C24"
+    ],
+    [
+     "Yellow",
+     "#FFF200"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "lille": {
+   "name": "Lille OSC",
+   "colors": [
+    [
+     "Red",
+     "#E01E13"
+    ],
+    [
+     "Blue",
+     "#24216A"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "lorient": {
+   "name": "FC Lorient",
+   "colors": [
+    [
+     "Orange",
+     "#F58113"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "lyon": {
+   "name": "Olympique Lyonnais",
+   "colors": [
+    [
+     "Red",
+     "#DA0812"
+    ],
+    [
+     "Blue",
+     "#14387F"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Gold",
+     "#D29D46"
+    ]
+   ]
+  },
+  "marseille": {
+   "name": "Olympique de Marseille",
+   "colors": [
+    [
+     "Blue",
+     "#2FAEE0"
+    ],
+    [
+     "Gold",
+     "#BEA064"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "monaco": {
+   "name": "AS Monaco",
+   "colors": [
+    [
+     "Red",
+     "#E51B22"
+    ],
+    [
+     "Gold",
+     "#CB9F18"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "nice": {
+   "name": "OGC Nice",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Red",
+     "#ED1C24"
+    ],
+    [
+     "Gold",
+     "#B59A54"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "paris_fc": {
+   "name": "Paris FC",
+   "colors": [
+    [
+     "Dark Blue",
+     "#0C183F"
+    ],
+    [
+     "Blue",
+     "#0680BE"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Red",
+     "#BD3032"
+    ]
+   ]
+  },
+  "psg": {
+   "name": "Paris Saint-Germain",
+   "colors": [
+    [
+     "Blue",
+     "#004170"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Red",
+     "#DA291C"
+    ],
+    [
+     "Gold",
+     "#CEAB5D"
+    ]
+   ]
+  },
+  "rennes": {
+   "name": "Stade Rennais",
+   "colors": [
+    [
+     "Red",
+     "#E13327"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Gold",
+     "#FCBC17"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "strasbourg": {
+   "name": "RC Strasbourg Alsace",
+   "colors": [
+    [
+     "Blue",
+     "#009FE3"
+    ],
+    [
+     "Red",
+     "#DC2F34"
+    ],
+    [
+     "Navy Blue",
+     "#004996"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "toulouse": {
+   "name": "Toulouse FC",
+   "colors": [
+    [
+     "Purple",
+     "#3F2A56"
+    ],
+    [
+     "Light Purple",
+     "#745990"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Red",
+     "#EA0046"
+    ],
+    [
+     "Gold",
+     "#E2B77F"
+    ]
+   ]
+  },
+  "troyes": {
+   "name": "ES Troyes AC",
+   "colors": [
+    [
+     "Blue",
+     "#006EB2"
+    ],
+    [
+     "Gold",
+     "#DC9D0F"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  }
+ },
+ "mls": {
+  "atlanta_united": {
+   "name": "Atlanta United FC",
+   "colors": [
+    [
+     "Dark Red",
+     "#80000A"
+    ],
+    [
+     "Black",
+     "#221F1F"
+    ],
+    [
+     "Metallic Gold",
+     "#A19060"
+    ],
+    [
+     "Dark Gold",
+     "#817144"
+    ]
+   ]
+  },
+  "austin": {
+   "name": "Austin FC",
+   "colors": [
+    [
+     "Bright Verde",
+     "#00B140"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "cf_montreal": {
+   "name": "CF Montreal",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Ice Gray",
+     "#9EA1A2"
+    ],
+    [
+     "Sacre Bleu",
+     "#0033A1"
+    ]
+   ]
+  },
+  "charlotte": {
+   "name": "Charlotte FC",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Process Blue",
+     "#1A85C8"
+    ]
+   ]
+  },
+  "chicago_fire": {
+   "name": "Chicago Fire FC",
+   "colors": [
+    [
+     "Fire Red",
+     "#FF0000"
+    ],
+    [
+     "Deep Blue",
+     "#141946"
+    ],
+    [
+     "Flag Blue",
+     "#7CCDEF"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "colorado_rapids": {
+   "name": "Colorado Rapids",
+   "colors": [
+    [
+     "Burgundy",
+     "#960A2C"
+    ],
+    [
+     "Sky Blue",
+     "#9CC2EA"
+    ],
+    [
+     "Silver",
+     "#D3D5D7"
+    ]
+   ]
+  },
+  "columbus_crew": {
+   "name": "Columbus Crew",
+   "colors": [
+    [
+     "Yellow",
+     "#FEDD00"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "dc_united": {
+   "name": "D.C. United",
+   "colors": [
+    [
+     "Red",
+     "#EF3E42"
+    ],
+    [
+     "Black",
+     "#231F20"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "fc_cincinnati": {
+   "name": "FC Cincinnati",
+   "colors": [
+    [
+     "Orange",
+     "#F05323"
+    ],
+    [
+     "Blue",
+     "#263B80"
+    ]
+   ]
+  },
+  "fc_dallas": {
+   "name": "FC Dallas",
+   "colors": [
+    [
+     "Republic Red",
+     "#E81F3E"
+    ],
+    [
+     "Bovine Blue",
+     "#2A4076"
+    ],
+    [
+     "Shawnee Silver",
+     "#CCCBCC"
+    ]
+   ]
+  },
+  "houston_dynamo": {
+   "name": "Houston Dynamo FC",
+   "colors": [
+    [
+     "Raven Black",
+     "#101820"
+    ],
+    [
+     "Wildcatter Orange",
+     "#FF6B00"
+    ]
+   ]
+  },
+  "inter_miami": {
+   "name": "Inter Miami CF",
+   "colors": [
+    [
+     "Pink",
+     "#F7B5CD"
+    ],
+    [
+     "Black",
+     "#231F20"
+    ]
+   ]
+  },
+  "la_galaxy": {
+   "name": "LA Galaxy",
+   "colors": [
+    [
+     "Navy Blue",
+     "#00245D"
+    ],
+    [
+     "Blue",
+     "#0065A4"
+    ],
+    [
+     "Gold",
+     "#FFD200"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "lafc": {
+   "name": "Los Angeles FC",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "California Gold",
+     "#C39E6D"
+    ],
+    [
+     "Glory Red",
+     "#E31837"
+    ],
+    [
+     "Asphalt",
+     "#55565A"
+    ],
+    [
+     "Gray",
+     "#B3B2B1"
+    ]
+   ]
+  },
+  "minnesota_united": {
+   "name": "Minnesota United FC",
+   "colors": [
+    [
+     "Gray",
+     "#E4E5E6"
+    ],
+    [
+     "Sky Blue",
+     "#8CD2F4"
+    ],
+    [
+     "Black",
+     "#231F20"
+    ]
+   ]
+  },
+  "nashville": {
+   "name": "Nashville SC",
+   "colors": [
+    [
+     "Electric Gold",
+     "#ECE83A"
+    ],
+    [
+     "Acoustic Blue",
+     "#1F1646"
+    ]
+   ]
+  },
+  "new_england": {
+   "name": "New England Revolution",
+   "colors": [
+    [
+     "Red",
+     "#CE0E2D"
+    ],
+    [
+     "Blue",
+     "#0A2240"
+    ]
+   ]
+  },
+  "nycfc": {
+   "name": "New York City FC",
+   "colors": [
+    [
+     "Sky Blue",
+     "#6CACE4"
+    ],
+    [
+     "Obsidian Blue",
+     "#041E42"
+    ],
+    [
+     "Flag Orange",
+     "#F15524"
+    ]
+   ]
+  },
+  "ny_red_bulls": {
+   "name": "New York Red Bulls",
+   "colors": [
+    [
+     "Red",
+     "#ED1E36"
+    ],
+    [
+     "Blue",
+     "#23326A"
+    ],
+    [
+     "Yellow",
+     "#FABB23"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "orlando_city": {
+   "name": "Orlando City SC",
+   "colors": [
+    [
+     "Purple",
+     "#633492"
+    ],
+    [
+     "Gold",
+     "#FDE192"
+    ]
+   ]
+  },
+  "philadelphia_union": {
+   "name": "Philadelphia Union",
+   "colors": [
+    [
+     "Navy Blue",
+     "#071B2C"
+    ],
+    [
+     "Gold",
+     "#B19B69"
+    ],
+    [
+     "Signal Blue",
+     "#3E8EDE"
+    ]
+   ]
+  },
+  "portland_timbers": {
+   "name": "Portland Timbers",
+   "colors": [
+    [
+     "Green",
+     "#00482B"
+    ],
+    [
+     "Gold",
+     "#D69A00"
+    ]
+   ]
+  },
+  "real_salt_lake": {
+   "name": "Real Salt Lake",
+   "colors": [
+    [
+     "Claret Red",
+     "#B30838"
+    ],
+    [
+     "Cobalt Blue",
+     "#013A81"
+    ],
+    [
+     "Real Gold",
+     "#F1CB00"
+    ]
+   ]
+  },
+  "san_diego": {
+   "name": "San Diego FC",
+   "colors": [
+    [
+     "Dark Blue",
+     "#02152B"
+    ],
+    [
+     "Gray",
+     "#697A7C"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Orange",
+     "#F89E1A"
+    ],
+    [
+     "Red",
+     "#EC2623"
+    ],
+    [
+     "Blue",
+     "#0054A5"
+    ]
+   ]
+  },
+  "san_jose": {
+   "name": "San Jose Earthquakes",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Blue",
+     "#0067B1"
+    ],
+    [
+     "Red",
+     "#E31837"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "seattle_sounders": {
+   "name": "Seattle Sounders FC",
+   "colors": [
+    [
+     "Sounder Blue",
+     "#005595"
+    ],
+    [
+     "Rave Green",
+     "#5D9741"
+    ],
+    [
+     "Cascade Shale",
+     "#142530"
+    ]
+   ]
+  },
+  "sporting_kc": {
+   "name": "Sporting Kansas City",
+   "colors": [
+    [
+     "Sporting Blue",
+     "#91B0D5"
+    ],
+    [
+     "Dark Indigo",
+     "#002F65"
+    ],
+    [
+     "Lead",
+     "#999999"
+    ]
+   ]
+  },
+  "st_louis_city": {
+   "name": "St. Louis City SC",
+   "colors": [
+    [
+     "Blue",
+     "#001837"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Red",
+     "#DD004A"
+    ]
+   ]
+  },
+  "toronto_fc": {
+   "name": "Toronto FC",
+   "colors": [
+    [
+     "Red",
+     "#B81137"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Dark Gray",
+     "#455560"
+    ],
+    [
+     "Gray",
+     "#B0B7BB"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "vancouver": {
+   "name": "Vancouver Whitecaps FC",
+   "colors": [
+    [
+     "Deep Sea Blue",
+     "#00245E"
+    ],
+    [
+     "Whitecaps Blue",
+     "#9DC2EA"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  }
+ },
+ "mlb": {
+  "diamondbacks": {
+   "name": "Arizona Diamondbacks",
+   "colors": [
+    [
+     "Sedona Red",
+     "#A71930"
+    ],
+    [
+     "Sonoran Sand",
+     "#E3D4AD"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Teal",
+     "#30CED8"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "braves": {
+   "name": "Atlanta Braves",
+   "colors": [
+    [
+     "Scarlet",
+     "#CE1141"
+    ],
+    [
+     "Navy",
+     "#13274F"
+    ],
+    [
+     "Gold",
+     "#EAAA00"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "orioles": {
+   "name": "Baltimore Orioles",
+   "colors": [
+    [
+     "Orange",
+     "#DF4601"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "red_sox": {
+   "name": "Boston Red Sox",
+   "colors": [
+    [
+     "Red",
+     "#BD3039"
+    ],
+    [
+     "Blue",
+     "#0C2340"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "cubs": {
+   "name": "Chicago Cubs",
+   "colors": [
+    [
+     "Blue",
+     "#0E3386"
+    ],
+    [
+     "Red",
+     "#CC3433"
+    ]
+   ]
+  },
+  "white_sox": {
+   "name": "Chicago White Sox",
+   "colors": [
+    [
+     "Black",
+     "#27251F"
+    ],
+    [
+     "Silver",
+     "#C4CED4"
+    ]
+   ]
+  },
+  "reds": {
+   "name": "Cincinnati Reds",
+   "colors": [
+    [
+     "Red",
+     "#C6011F"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "guardians": {
+   "name": "Cleveland Guardians",
+   "colors": [
+    [
+     "Navy Blue",
+     "#00385D"
+    ],
+    [
+     "Red",
+     "#E50022"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "rockies": {
+   "name": "Colorado Rockies",
+   "colors": [
+    [
+     "Rockies Purple",
+     "#333366"
+    ],
+    [
+     "Silver",
+     "#C4CED4"
+    ],
+    [
+     "Midnight Black",
+     "#131413"
+    ]
+   ]
+  },
+  "tigers": {
+   "name": "Detroit Tigers",
+   "colors": [
+    [
+     "Navy",
+     "#0C2340"
+    ],
+    [
+     "Orange",
+     "#FA4616"
+    ]
+   ]
+  },
+  "astros": {
+   "name": "Houston Astros",
+   "colors": [
+    [
+     "Navy",
+     "#002D62"
+    ],
+    [
+     "Orange",
+     "#EB6E1F"
+    ],
+    [
+     "Light Orange",
+     "#F4911E"
+    ]
+   ]
+  },
+  "royals": {
+   "name": "Kansas City Royals",
+   "colors": [
+    [
+     "Royal Blue",
+     "#004687"
+    ],
+    [
+     "Gold",
+     "#BD9B60"
+    ]
+   ]
+  },
+  "angels": {
+   "name": "Los Angeles Angels",
+   "colors": [
+    [
+     "Midnight Blue",
+     "#003263"
+    ],
+    [
+     "Red",
+     "#BA0021"
+    ],
+    [
+     "Maroon",
+     "#862633"
+    ],
+    [
+     "Silver",
+     "#C4CED4"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "dodgers": {
+   "name": "Los Angeles Dodgers",
+   "colors": [
+    [
+     "Dodger Blue",
+     "#005A9C"
+    ],
+    [
+     "Red",
+     "#EF3E42"
+    ],
+    [
+     "Silver",
+     "#A5ACAF"
+    ]
+   ]
+  },
+  "marlins": {
+   "name": "Miami Marlins",
+   "colors": [
+    [
+     "Miami Blue",
+     "#00A3E0"
+    ],
+    [
+     "Caliente Red",
+     "#EF3340"
+    ],
+    [
+     "Slate Gray",
+     "#41748D"
+    ],
+    [
+     "Midnight Black",
+     "#000000"
+    ]
+   ]
+  },
+  "brewers": {
+   "name": "Milwaukee Brewers",
+   "colors": [
+    [
+     "Yellow",
+     "#FFC52F"
+    ],
+    [
+     "Navy Blue",
+     "#12284B"
+    ]
+   ]
+  },
+  "twins": {
+   "name": "Minnesota Twins",
+   "colors": [
+    [
+     "Twins Navy",
+     "#002B5C"
+    ],
+    [
+     "Scarlet Red",
+     "#D31145"
+    ],
+    [
+     "Kasota Gold",
+     "#B9975B"
+    ]
+   ]
+  },
+  "mets": {
+   "name": "New York Mets",
+   "colors": [
+    [
+     "Blue",
+     "#002D72"
+    ],
+    [
+     "Orange",
+     "#FF5910"
+    ]
+   ]
+  },
+  "yankees": {
+   "name": "New York Yankees",
+   "colors": [
+    [
+     "Blue",
+     "#003087"
+    ],
+    [
+     "Red",
+     "#E4002C"
+    ],
+    [
+     "Uniform Navy",
+     "#0C2340"
+    ],
+    [
+     "Uniform Gray",
+     "#C4CED3"
+    ]
+   ]
+  },
+  "athletics": {
+   "name": "Athletics",
+   "colors": [
+    [
+     "Green",
+     "#003831"
+    ],
+    [
+     "Gold",
+     "#EFB21E"
+    ],
+    [
+     "Gray",
+     "#A2AAAD"
+    ],
+    [
+     "Green",
+     "#115740"
+    ],
+    [
+     "Yellow",
+     "#FFCD00"
+    ]
+   ]
+  },
+  "phillies": {
+   "name": "Philadelphia Phillies",
+   "colors": [
+    [
+     "Red",
+     "#E81828"
+    ],
+    [
+     "Blue",
+     "#002D72"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "pirates": {
+   "name": "Pittsburgh Pirates",
+   "colors": [
+    [
+     "Black",
+     "#27251F"
+    ],
+    [
+     "Gold",
+     "#FDB827"
+    ]
+   ]
+  },
+  "padres": {
+   "name": "San Diego Padres",
+   "colors": [
+    [
+     "Brown",
+     "#2F241D"
+    ],
+    [
+     "Gold",
+     "#FFC425"
+    ]
+   ]
+  },
+  "giants": {
+   "name": "San Francisco Giants",
+   "colors": [
+    [
+     "Orange",
+     "#FD5A1E"
+    ],
+    [
+     "Black",
+     "#27251F"
+    ],
+    [
+     "Beige",
+     "#EFD19F"
+    ],
+    [
+     "Gold",
+     "#AE8F6F"
+    ]
+   ]
+  },
+  "mariners": {
+   "name": "Seattle Mariners",
+   "colors": [
+    [
+     "Navy Blue",
+     "#0C2C56"
+    ],
+    [
+     "Northwest Green",
+     "#005C5C"
+    ],
+    [
+     "Silver",
+     "#C4CED4"
+    ],
+    [
+     "Red",
+     "#D50032"
+    ]
+   ]
+  },
+  "cardinals": {
+   "name": "St. Louis Cardinals",
+   "colors": [
+    [
+     "Cardinal Red",
+     "#C41E3A"
+    ],
+    [
+     "Navy",
+     "#0C2340"
+    ],
+    [
+     "Yellow",
+     "#FEDB00"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "rays": {
+   "name": "Tampa Bay Rays",
+   "colors": [
+    [
+     "Navy Blue",
+     "#092C5C"
+    ],
+    [
+     "Columbia Blue",
+     "#8FBCE6"
+    ],
+    [
+     "Yellow",
+     "#F5D130"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "rangers": {
+   "name": "Texas Rangers",
+   "colors": [
+    [
+     "Blue",
+     "#003278"
+    ],
+    [
+     "Red",
+     "#C0111F"
+    ]
+   ]
+  },
+  "blue_jays": {
+   "name": "Toronto Blue Jays",
+   "colors": [
+    [
+     "Blue",
+     "#134A8E"
+    ],
+    [
+     "Navy Blue",
+     "#1D2D5C"
+    ],
+    [
+     "Red",
+     "#E8291C"
+    ]
+   ]
+  },
+  "nationals": {
+   "name": "Washington Nationals",
+   "colors": [
+    [
+     "Red",
+     "#AB0003"
+    ],
+    [
+     "Navy Blue",
+     "#14225A"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  }
+ },
+ "nba": {
+  "hawks": {
+   "name": "Atlanta Hawks",
+   "colors": [
+    [
+     "Torch Red",
+     "#C8102E"
+    ],
+    [
+     "Legacy Yellow",
+     "#FDB927"
+    ],
+    [
+     "Infinity Black",
+     "#000000"
+    ],
+    [
+     "Granite Gray",
+     "#9EA2A2"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "celtics": {
+   "name": "Boston Celtics",
+   "colors": [
+    [
+     "Celtics Green",
+     "#007A33"
+    ],
+    [
+     "Celtics Gold",
+     "#BA9653"
+    ],
+    [
+     "Celtics Brown",
+     "#963821"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Celtics Black",
+     "#000000"
+    ]
+   ]
+  },
+  "nets": {
+   "name": "Brooklyn Nets",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "hornets": {
+   "name": "Charlotte Hornets",
+   "colors": [
+    [
+     "Hornets Purple",
+     "#1D1160"
+    ],
+    [
+     "Teal",
+     "#00788C"
+    ],
+    [
+     "Gray",
+     "#A1A1A4"
+    ]
+   ]
+  },
+  "bulls": {
+   "name": "Chicago Bulls",
+   "colors": [
+    [
+     "Bulls Red",
+     "#CE1141"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "cavs": {
+   "name": "Cleveland Cavaliers",
+   "colors": [
+    [
+     "Cavaliers Wine",
+     "#860038"
+    ],
+    [
+     "Cavaliers Navy",
+     "#041E42"
+    ],
+    [
+     "Cavaliers Gold",
+     "#FDBB30"
+    ],
+    [
+     "Cavaliers Black",
+     "#000000"
+    ]
+   ]
+  },
+  "mavs": {
+   "name": "Dallas Mavericks",
+   "colors": [
+    [
+     "Royal Blue",
+     "#00538C"
+    ],
+    [
+     "Navy Blue",
+     "#002B5E"
+    ],
+    [
+     "Silver",
+     "#B8C4CA"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "nuggets": {
+   "name": "Denver Nuggets",
+   "colors": [
+    [
+     "Midnight Blue",
+     "#0E2240"
+    ],
+    [
+     "Sunshine Yellow",
+     "#FEC524"
+    ],
+    [
+     "Flatirons Red",
+     "#8B2131"
+    ],
+    [
+     "Skyline Blue",
+     "#1D428A"
+    ]
+   ]
+  },
+  "pistons": {
+   "name": "Detroit Pistons",
+   "colors": [
+    [
+     "Red",
+     "#C8102E"
+    ],
+    [
+     "Royal",
+     "#1D42BA"
+    ],
+    [
+     "Gray",
+     "#BEC0C2"
+    ],
+    [
+     "Navy",
+     "#002D62"
+    ]
+   ]
+  },
+  "warriors": {
+   "name": "Golden State Warriors",
+   "colors": [
+    [
+     "Warriors Blue",
+     "#1D428A"
+    ],
+    [
+     "Golden Yellow",
+     "#FFC72C"
+    ]
+   ]
+  },
+  "rockets": {
+   "name": "Houston Rockets",
+   "colors": [
+    [
+     "Red",
+     "#CE1141"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Silver",
+     "#C4CED4"
+    ]
+   ]
+  },
+  "pacers": {
+   "name": "Indiana Pacers",
+   "colors": [
+    [
+     "Pacers Blue",
+     "#002D62"
+    ],
+    [
+     "Yellow",
+     "#FDBB30"
+    ],
+    [
+     "Silver",
+     "#BEC0C2"
+    ]
+   ]
+  },
+  "clippers": {
+   "name": "Los Angeles Clippers",
+   "colors": [
+    [
+     "Red",
+     "#C8102E"
+    ],
+    [
+     "Blue",
+     "#1D428A"
+    ],
+    [
+     "Silver",
+     "#BEC0C2"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "lakers": {
+   "name": "Los Angeles Lakers",
+   "colors": [
+    [
+     "Lakers Purple",
+     "#552583"
+    ],
+    [
+     "Gold",
+     "#FDB927"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "grizzlies": {
+   "name": "Memphis Grizzlies",
+   "colors": [
+    [
+     "Blue",
+     "#5D76A9"
+    ],
+    [
+     "Navy",
+     "#12173F"
+    ],
+    [
+     "Yellow",
+     "#F5B112"
+    ],
+    [
+     "Gray",
+     "#707271"
+    ]
+   ]
+  },
+  "heat": {
+   "name": "Miami Heat",
+   "colors": [
+    [
+     "Red",
+     "#98002E"
+    ],
+    [
+     "Yellow",
+     "#F9A01B"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "bucks": {
+   "name": "Milwaukee Bucks",
+   "colors": [
+    [
+     "Good Land Green",
+     "#00471B"
+    ],
+    [
+     "Cream City Cream",
+     "#EEE1C6"
+    ],
+    [
+     "Great Lakes Blue",
+     "#0077C0"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "wolves": {
+   "name": "Minnesota Timberwolves",
+   "colors": [
+    [
+     "Midnight Blue",
+     "#0C2340"
+    ],
+    [
+     "Lake Blue",
+     "#236192"
+    ],
+    [
+     "Moonlight Grey",
+     "#9EA2A2"
+    ],
+    [
+     "Aurora Green",
+     "#78BE20"
+    ]
+   ]
+  },
+  "pelicans": {
+   "name": "New Orleans Pelicans",
+   "colors": [
+    [
+     "Pelicans Navy",
+     "#0C2340"
+    ],
+    [
+     "Pelicans Red",
+     "#C8102E"
+    ],
+    [
+     "Pelicans Gold",
+     "#85714D"
+    ]
+   ]
+  },
+  "knicks": {
+   "name": "New York Knicks",
+   "colors": [
+    [
+     "Knicks Blue",
+     "#006BB6"
+    ],
+    [
+     "Knicks Orange",
+     "#F58426"
+    ],
+    [
+     "Knicks Silver",
+     "#BEC0C2"
+    ],
+    [
+     "Knicks Black",
+     "#000000"
+    ]
+   ]
+  },
+  "thunder": {
+   "name": "Oklahoma City Thunder",
+   "colors": [
+    [
+     "Thunder Blue",
+     "#007AC1"
+    ],
+    [
+     "Sunset",
+     "#EF3B24"
+    ],
+    [
+     "Blue",
+     "#002D62"
+    ],
+    [
+     "Yellow",
+     "#FDBB30"
+    ]
+   ]
+  },
+  "magic": {
+   "name": "Orlando Magic",
+   "colors": [
+    [
+     "Magic Blue",
+     "#0077C0"
+    ],
+    [
+     "Silver",
+     "#C4CED4"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "sixers": {
+   "name": "Philadelphia 76ers",
+   "colors": [
+    [
+     "Blue",
+     "#006BB6"
+    ],
+    [
+     "Red",
+     "#ED174C"
+    ],
+    [
+     "Navy",
+     "#002B5C"
+    ],
+    [
+     "Silver",
+     "#C4CED4"
+    ]
+   ]
+  },
+  "suns": {
+   "name": "Phoenix Suns",
+   "colors": [
+    [
+     "Purple",
+     "#1D1160"
+    ],
+    [
+     "Orange",
+     "#E56020"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Gray",
+     "#63727A"
+    ],
+    [
+     "Yellow",
+     "#F9AD1B"
+    ],
+    [
+     "Dark Orange",
+     "#B95915"
+    ],
+    [
+     "Light Gray",
+     "#BEC0C2"
+    ]
+   ]
+  },
+  "blazers": {
+   "name": "Portland Trail Blazers",
+   "colors": [
+    [
+     "Red",
+     "#E03A3E"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "kings": {
+   "name": "Sacramento Kings",
+   "colors": [
+    [
+     "Purple",
+     "#5A2D81"
+    ],
+    [
+     "Gray",
+     "#63727A"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Kings Purple",
+     "#542E91"
+    ],
+    [
+     "Kings Grey",
+     "#C4CED4"
+    ]
+   ]
+  },
+  "spurs": {
+   "name": "San Antonio Spurs",
+   "colors": [
+    [
+     "Silver",
+     "#C4CED4"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Silver",
+     "#8A8D8F"
+    ],
+    [
+     "Fuschia",
+     "#EF426F"
+    ],
+    [
+     "Blue",
+     "#00B2A9"
+    ],
+    [
+     "Orange",
+     "#FF8200"
+    ]
+   ]
+  },
+  "raptors": {
+   "name": "Toronto Raptors",
+   "colors": [
+    [
+     "Red",
+     "#CE1141"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Silver",
+     "#A1A1A4"
+    ],
+    [
+     "Gold",
+     "#B4975A"
+    ]
+   ]
+  },
+  "jazz": {
+   "name": "Utah Jazz",
+   "colors": [
+    [
+     "Navy",
+     "#002B5C"
+    ],
+    [
+     "Green",
+     "#00471B"
+    ],
+    [
+     "Yellow",
+     "#F9A01B"
+    ]
+   ]
+  },
+  "wizards": {
+   "name": "Washington Wizards",
+   "colors": [
+    [
+     "Navy Blue",
+     "#002B5C"
+    ],
+    [
+     "Red",
+     "#E31837"
+    ],
+    [
+     "Silver",
+     "#C4CED4"
+    ]
+   ]
+  },
+  "sonics": {
+   "name": "Seattle SuperSonics",
+   "colors": [
+    [
+     "Green",
+     "#00653A"
+    ],
+    [
+     "Yellow",
+     "#FFC200"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  }
+ },
+ "nfl": {
+  "cardinals": {
+   "name": "Arizona Cardinals",
+   "colors": [
+    [
+     "Red",
+     "#97233F"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Yellow",
+     "#FFB612"
+    ]
+   ]
+  },
+  "falcons": {
+   "name": "Atlanta Falcons",
+   "colors": [
+    [
+     "Red",
+     "#A71930"
+    ],
+    [
+     "Silver",
+     "#A5ACAF"
+    ]
+   ]
+  },
+  "ravens": {
+   "name": "Baltimore Ravens",
+   "colors": [
+    [
+     "Purple",
+     "#241773"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Metallic Gold",
+     "#9E7C0C"
+    ],
+    [
+     "Red",
+     "#C60C30"
+    ]
+   ]
+  },
+  "bills": {
+   "name": "Buffalo Bills",
+   "colors": [
+    [
+     "Blue",
+     "#00338D"
+    ],
+    [
+     "Red",
+     "#C60C30"
+    ]
+   ]
+  },
+  "panthers": {
+   "name": "Carolina Panthers",
+   "colors": [
+    [
+     "Carolina Blue",
+     "#0085CA"
+    ],
+    [
+     "Black",
+     "#101820"
+    ],
+    [
+     "Silver",
+     "#BFC0BF"
+    ]
+   ]
+  },
+  "bears": {
+   "name": "Chicago Bears",
+   "colors": [
+    [
+     "Dark Navy",
+     "#0B162A"
+    ],
+    [
+     "Orange",
+     "#C83803"
+    ]
+   ]
+  },
+  "bengals": {
+   "name": "Cincinnati Bengals",
+   "colors": [
+    [
+     "Orange",
+     "#FB4F14"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "browns": {
+   "name": "Cleveland Browns",
+   "colors": [
+    [
+     "Dark Brown",
+     "#311D00"
+    ],
+    [
+     "Orange",
+     "#FF3C00"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Brown",
+     "#342624"
+    ],
+    [
+     "Orange",
+     "#EC5614"
+    ],
+    [
+     "Gray",
+     "#7C7E7C"
+    ]
+   ]
+  },
+  "cowboys": {
+   "name": "Dallas Cowboys",
+   "colors": [
+    [
+     "Royal Blue",
+     "#003594"
+    ],
+    [
+     "Blue",
+     "#041E42"
+    ],
+    [
+     "Silver",
+     "#869397"
+    ],
+    [
+     "Silver-Green",
+     "#7F9695"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "broncos": {
+   "name": "Denver Broncos",
+   "colors": [
+    [
+     "Broncos Orange",
+     "#FB4F14"
+    ],
+    [
+     "Broncos Navy",
+     "#002244"
+    ]
+   ]
+  },
+  "lions": {
+   "name": "Detroit Lions",
+   "colors": [
+    [
+     "Honolulu Blue",
+     "#0076B6"
+    ],
+    [
+     "Silver",
+     "#B0B7BC"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "packers": {
+   "name": "Green Bay Packers",
+   "colors": [
+    [
+     "Dark Green",
+     "#203731"
+    ],
+    [
+     "Gold",
+     "#FFB612"
+    ]
+   ]
+  },
+  "texans": {
+   "name": "Houston Texans",
+   "colors": [
+    [
+     "Deep Steel Blue",
+     "#03202F"
+    ],
+    [
+     "Battle Red",
+     "#A71930"
+    ]
+   ]
+  },
+  "colts": {
+   "name": "Indianapolis Colts",
+   "colors": [
+    [
+     "Speed Blue",
+     "#002C5F"
+    ],
+    [
+     "Gray",
+     "#A2AAAD"
+    ]
+   ]
+  },
+  "jaguars": {
+   "name": "Jacksonville Jaguars",
+   "colors": [
+    [
+     "Black",
+     "#101820"
+    ],
+    [
+     "Gold",
+     "#D7A22A"
+    ],
+    [
+     "Dark Gold",
+     "#9F792C"
+    ],
+    [
+     "Teal",
+     "#006778"
+    ]
+   ]
+  },
+  "chiefs": {
+   "name": "Kansas City Chiefs",
+   "colors": [
+    [
+     "Red",
+     "#E31837"
+    ],
+    [
+     "Gold",
+     "#FFB81C"
+    ]
+   ]
+  },
+  "raiders": {
+   "name": "Las Vegas Raiders",
+   "colors": [
+    [
+     "Raiders Black",
+     "#000000"
+    ],
+    [
+     "Raiders Silver",
+     "#A5ACAF"
+    ]
+   ]
+  },
+  "chargers": {
+   "name": "Los Angeles Chargers",
+   "colors": [
+    [
+     "Powder Blue",
+     "#0080C6"
+    ],
+    [
+     "Sunshine Gold",
+     "#FFC20E"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "rams": {
+   "name": "Los Angeles Rams",
+   "colors": [
+    [
+     "Blue",
+     "#003594"
+    ],
+    [
+     "Gold",
+     "#FFA300"
+    ],
+    [
+     "Dark Gold",
+     "#FF8200"
+    ],
+    [
+     "Yellow",
+     "#FFD100"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "dolphins": {
+   "name": "Miami Dolphins",
+   "colors": [
+    [
+     "Aqua",
+     "#008E97"
+    ],
+    [
+     "Orange",
+     "#FC4C02"
+    ],
+    [
+     "Blue",
+     "#005778"
+    ]
+   ]
+  },
+  "vikings": {
+   "name": "Minnesota Vikings",
+   "colors": [
+    [
+     "Purple",
+     "#4F2683"
+    ],
+    [
+     "Gold",
+     "#FFC62F"
+    ]
+   ]
+  },
+  "patriots": {
+   "name": "New England Patriots",
+   "colors": [
+    [
+     "Nautical Blue",
+     "#002244"
+    ],
+    [
+     "Red",
+     "#C60C30"
+    ],
+    [
+     "New Century Silver",
+     "#B0B7BC"
+    ]
+   ]
+  },
+  "saints": {
+   "name": "New Orleans Saints",
+   "colors": [
+    [
+     "Old Gold",
+     "#D3BC8D"
+    ],
+    [
+     "Black",
+     "#101820"
+    ]
+   ]
+  },
+  "giants": {
+   "name": "New York Giants",
+   "colors": [
+    [
+     "Dark Blue",
+     "#0B2265"
+    ],
+    [
+     "Red",
+     "#A71930"
+    ],
+    [
+     "Gray",
+     "#A5ACAF"
+    ]
+   ]
+  },
+  "jets": {
+   "name": "New York Jets",
+   "colors": [
+    [
+     "Gotham Green",
+     "#125740"
+    ],
+    [
+     "Stealth Black",
+     "#000000"
+    ],
+    [
+     "Spotlight White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "eagles": {
+   "name": "Philadelphia Eagles",
+   "colors": [
+    [
+     "Midnight Green",
+     "#004C54"
+    ],
+    [
+     "Silver (Jersey)",
+     "#A5ACAF"
+    ],
+    [
+     "Silver (Helmet)",
+     "#ACC0C6"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Charcoal",
+     "#565A5C"
+    ]
+   ]
+  },
+  "steelers": {
+   "name": "Pittsburgh Steelers",
+   "colors": [
+    [
+     "Steelers Gold",
+     "#FFB612"
+    ],
+    [
+     "Black",
+     "#101820"
+    ],
+    [
+     "Blue",
+     "#003087"
+    ],
+    [
+     "Red",
+     "#C60C30"
+    ],
+    [
+     "Silver",
+     "#A5ACAF"
+    ]
+   ]
+  },
+  "niners": {
+   "name": "San Francisco 49ers",
+   "colors": [
+    [
+     "49ers Red",
+     "#AA0000"
+    ],
+    [
+     "Gold",
+     "#B3995D"
+    ]
+   ]
+  },
+  "seahawks": {
+   "name": "Seattle Seahawks",
+   "colors": [
+    [
+     "College Navy",
+     "#002244"
+    ],
+    [
+     "Action Green",
+     "#69BE28"
+    ],
+    [
+     "Wolf Gray",
+     "#A5ACAF"
+    ]
+   ]
+  },
+  "buccaneers": {
+   "name": "Tampa Bay Buccaneers",
+   "colors": [
+    [
+     "Red",
+     "#D50A0A"
+    ],
+    [
+     "Bay Orange",
+     "#FF7900"
+    ],
+    [
+     "Black",
+     "#0A0A08"
+    ],
+    [
+     "Grey",
+     "#B1BABF"
+    ],
+    [
+     "Pewter",
+     "#34302B"
+    ]
+   ]
+  },
+  "titans": {
+   "name": "Tennessee Titans",
+   "colors": [
+    [
+     "Titans Navy",
+     "#0C2340"
+    ],
+    [
+     "Titans Blue",
+     "#4B92DB"
+    ],
+    [
+     "Titans Red",
+     "#C8102E"
+    ],
+    [
+     "Titans Silver",
+     "#8A8D8F"
+    ],
+    [
+     "Wolf Grey",
+     "#A2AAAD"
+    ],
+    [
+     "Steel Grey",
+     "#54585A"
+    ]
+   ]
+  },
+  "commanders": {
+   "name": "Washington Commanders",
+   "colors": [
+    [
+     "Burgundy",
+     "#5A1414"
+    ],
+    [
+     "Gold",
+     "#FFB612"
+    ]
+   ]
+  }
+ },
+ "nhl": {
+  "ducks": {
+   "name": "Anaheim Ducks",
+   "colors": [
+    [
+     "Orange",
+     "#F47A38"
+    ],
+    [
+     "Metallic Gold",
+     "#B9975B"
+    ],
+    [
+     "Silver",
+     "#C1C6C8"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Green",
+     "#00685E"
+    ],
+    [
+     "Purple",
+     "#532A44"
+    ],
+    [
+     "Yellow",
+     "#FCC72C"
+    ],
+    [
+     "Black",
+     "#241E24"
+    ]
+   ]
+  },
+  "bruins": {
+   "name": "Boston Bruins",
+   "colors": [
+    [
+     "Gold",
+     "#FFB81C"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "sabres": {
+   "name": "Buffalo Sabres",
+   "colors": [
+    [
+     "Royal Blue",
+     "#003087"
+    ],
+    [
+     "Gold",
+     "#FFB81C"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "flames": {
+   "name": "Calgary Flames",
+   "colors": [
+    [
+     "Red",
+     "#D2001C"
+    ],
+    [
+     "Yellow",
+     "#FAAF19"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "hurricanes": {
+   "name": "Carolina Hurricanes",
+   "colors": [
+    [
+     "Red",
+     "#CE1126"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ],
+    [
+     "Gray",
+     "#A4A9AD"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "blackhawks": {
+   "name": "Chicago Blackhawks",
+   "colors": [
+    [
+     "Red",
+     "#CF0A2C"
+    ],
+    [
+     "Orange",
+     "#FF671B"
+    ],
+    [
+     "Green",
+     "#00833E"
+    ],
+    [
+     "Yellow",
+     "#FFD100"
+    ],
+    [
+     "Tan",
+     "#D18A00"
+    ],
+    [
+     "Blue",
+     "#001970"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "avalanche": {
+   "name": "Colorado Avalanche",
+   "colors": [
+    [
+     "Burgundy",
+     "#6F263D"
+    ],
+    [
+     "Blue",
+     "#236192"
+    ],
+    [
+     "Silver",
+     "#A2AAAD"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "blue_jackets": {
+   "name": "Columbus Blue Jackets",
+   "colors": [
+    [
+     "Union Blue",
+     "#002654"
+    ],
+    [
+     "Goal Red",
+     "#CE1126"
+    ],
+    [
+     "Capital Silver",
+     "#A4A9AD"
+    ]
+   ]
+  },
+  "stars": {
+   "name": "Dallas Stars",
+   "colors": [
+    [
+     "Victory Green",
+     "#006847"
+    ],
+    [
+     "Silver",
+     "#8F8F8C"
+    ],
+    [
+     "Black",
+     "#111111"
+    ]
+   ]
+  },
+  "red_wings": {
+   "name": "Detroit Red Wings",
+   "colors": [
+    [
+     "Red",
+     "#CE1126"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "oilers": {
+   "name": "Edmonton Oilers",
+   "colors": [
+    [
+     "Blue",
+     "#041E42"
+    ],
+    [
+     "Orange",
+     "#FF4C00"
+    ]
+   ]
+  },
+  "panthers": {
+   "name": "Florida Panthers",
+   "colors": [
+    [
+     "Navy",
+     "#041E42"
+    ],
+    [
+     "Red",
+     "#C8102E"
+    ],
+    [
+     "Tan",
+     "#B9975B"
+    ]
+   ]
+  },
+  "kings": {
+   "name": "Los Angeles Kings",
+   "colors": [
+    [
+     "Black",
+     "#111111"
+    ],
+    [
+     "Silver",
+     "#A2AAAD"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "wild": {
+   "name": "Minnesota Wild",
+   "colors": [
+    [
+     "Iron Range Red",
+     "#A6192E"
+    ],
+    [
+     "Forest Green",
+     "#154734"
+    ],
+    [
+     "Gold",
+     "#EAAA00"
+    ],
+    [
+     "Minnesota Wheat",
+     "#DDCBA4"
+    ]
+   ]
+  },
+  "canadiens": {
+   "name": "Montreal Canadiens",
+   "colors": [
+    [
+     "Red",
+     "#AF1E2D"
+    ],
+    [
+     "Blue",
+     "#192168"
+    ]
+   ]
+  },
+  "predators": {
+   "name": "Nashville Predators",
+   "colors": [
+    [
+     "Gold",
+     "#FFB81C"
+    ],
+    [
+     "Navy Blue",
+     "#041E42"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "devils": {
+   "name": "New Jersey Devils",
+   "colors": [
+    [
+     "Red",
+     "#CE1126"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "islanders": {
+   "name": "New York Islanders",
+   "colors": [
+    [
+     "Blue",
+     "#00539B"
+    ],
+    [
+     "Orange",
+     "#F47D30"
+    ]
+   ]
+  },
+  "rangers": {
+   "name": "New York Rangers",
+   "colors": [
+    [
+     "Blue",
+     "#0038A8"
+    ],
+    [
+     "Red",
+     "#CE1126"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "senators": {
+   "name": "Ottawa Senators",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Red",
+     "#DA1A32"
+    ],
+    [
+     "Gold",
+     "#B79257"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "flyers": {
+   "name": "Philadelphia Flyers",
+   "colors": [
+    [
+     "Flyers Orange",
+     "#F74902"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "penguins": {
+   "name": "Pittsburgh Penguins",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Gold",
+     "#CFC493"
+    ],
+    [
+     "Yellow",
+     "#FCB514"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "sharks": {
+   "name": "San Jose Sharks",
+   "colors": [
+    [
+     "Teal",
+     "#006D75"
+    ],
+    [
+     "Orange",
+     "#EA7200"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "kraken": {
+   "name": "Seattle Kraken",
+   "colors": [
+    [
+     "Deep Sea Blue",
+     "#001628"
+    ],
+    [
+     "Ice Blue",
+     "#99D9D9"
+    ],
+    [
+     "Boundless Blue",
+     "#355464"
+    ],
+    [
+     "Shadow Blue",
+     "#68A2B9"
+    ],
+    [
+     "Red Alert",
+     "#E9072B"
+    ]
+   ]
+  },
+  "blues": {
+   "name": "St. Louis Blues",
+   "colors": [
+    [
+     "Blue",
+     "#002F87"
+    ],
+    [
+     "Yellow",
+     "#FCB514"
+    ],
+    [
+     "Navy Blue",
+     "#041E42"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "lightning": {
+   "name": "Tampa Bay Lightning",
+   "colors": [
+    [
+     "Blue",
+     "#002868"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "maple_leafs": {
+   "name": "Toronto Maple Leafs",
+   "colors": [
+    [
+     "Blue",
+     "#00205B"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "utah": {
+   "name": "Utah Mammoth",
+   "colors": [
+    [
+     "Rock Black",
+     "#010101"
+    ],
+    [
+     "Salt White",
+     "#FFFFFF"
+    ],
+    [
+     "Mountain Blue",
+     "#7AB2E0"
+    ]
+   ]
+  },
+  "canucks": {
+   "name": "Vancouver Canucks",
+   "colors": [
+    [
+     "Blue",
+     "#00205B"
+    ],
+    [
+     "Green",
+     "#00843D"
+    ],
+    [
+     "Dark Blue",
+     "#041C2C"
+    ],
+    [
+     "Gray",
+     "#99999A"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "golden_knights": {
+   "name": "Vegas Golden Knights",
+   "colors": [
+    [
+     "Gold",
+     "#B4975A"
+    ],
+    [
+     "Steel Gray",
+     "#333F42"
+    ],
+    [
+     "Red",
+     "#C8102E"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "capitals": {
+   "name": "Washington Capitals",
+   "colors": [
+    [
+     "Navy",
+     "#041E42"
+    ],
+    [
+     "Red",
+     "#C8102E"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "jets": {
+   "name": "Winnipeg Jets",
+   "colors": [
+    [
+     "Navy",
+     "#041E42"
+    ],
+    [
+     "Blue",
+     "#004C97"
+    ],
+    [
+     "Red",
+     "#AC162C"
+    ],
+    [
+     "Maroon",
+     "#7B303E"
+    ],
+    [
+     "Dark Gray",
+     "#55565A"
+    ],
+    [
+     "Silver",
+     "#8E9090"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "coyotes": {
+   "name": "Arizona Coyotes",
+   "colors": [
+    [
+     "Brick Red",
+     "#8C2633"
+    ],
+    [
+     "Desert Sand",
+     "#E2D6B5"
+    ],
+    [
+     "Black",
+     "#111111"
+    ]
+   ]
+  }
+ },
+ "wnba": {
+  "dream": {
+   "name": "Atlanta Dream",
+   "colors": [
+    [
+     "Red",
+     "#C8102E"
+    ],
+    [
+     "Blue",
+     "#418FDE"
+    ],
+    [
+     "Light Blue",
+     "#CED9E5"
+    ],
+    [
+     "Navy",
+     "#0C2340"
+    ]
+   ]
+  },
+  "sky": {
+   "name": "Chicago Sky",
+   "colors": [
+    [
+     "Yellow",
+     "#FFCD00"
+    ],
+    [
+     "Blue",
+     "#418FDE"
+    ]
+   ]
+  },
+  "sun": {
+   "name": "Connecticut Sun",
+   "colors": [
+    [
+     "Red",
+     "#A6192E"
+    ],
+    [
+     "Blue",
+     "#041E42"
+    ],
+    [
+     "Dark Red",
+     "#643335"
+    ],
+    [
+     "Orange",
+     "#DC4405"
+    ],
+    [
+     "Yellow",
+     "#FFC72C"
+    ],
+    [
+     "Light Yellow",
+     "#FFF0D8"
+    ]
+   ]
+  },
+  "wings": {
+   "name": "Dallas Wings",
+   "colors": [
+    [
+     "Navy",
+     "#0C2340"
+    ],
+    [
+     "Green",
+     "#C4D600"
+    ],
+    [
+     "Cyan",
+     "#00A9E0"
+    ],
+    [
+     "Blue",
+     "#0057B8"
+    ],
+    [
+     "Red",
+     "#C8102E"
+    ]
+   ]
+  },
+  "valkyries": {
+   "name": "Golden State Valkyries",
+   "colors": [
+    [
+     "Valkyrie Violet",
+     "#B896D4"
+    ],
+    [
+     "Light Violet",
+     "#C6ABDD"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Gold",
+     "#B9975B"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "fever": {
+   "name": "Indiana Fever",
+   "colors": [
+    [
+     "Red",
+     "#C8102E"
+    ],
+    [
+     "Blue",
+     "#041E42"
+    ],
+    [
+     "Yellow",
+     "#FFCD00"
+    ]
+   ]
+  },
+  "aces": {
+   "name": "Las Vegas Aces",
+   "colors": [
+    [
+     "Red",
+     "#BA0C2F"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Gold",
+     "#85714D"
+    ],
+    [
+     "Silver",
+     "#8A8D8F"
+    ]
+   ]
+  },
+  "sparks": {
+   "name": "Los Angeles Sparks",
+   "colors": [
+    [
+     "Yellow",
+     "#FFC72C"
+    ],
+    [
+     "Purple",
+     "#702F8A"
+    ],
+    [
+     "Green",
+     "#00B398"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "lynx": {
+   "name": "Minnesota Lynx",
+   "colors": [
+    [
+     "Navy",
+     "#0C2340"
+    ],
+    [
+     "Blue",
+     "#236192"
+    ],
+    [
+     "Green",
+     "#78BE20"
+    ],
+    [
+     "Gray",
+     "#9EA2A2"
+    ]
+   ]
+  },
+  "liberty": {
+   "name": "New York Liberty",
+   "colors": [
+    [
+     "Green",
+     "#6ECEB2"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Orange",
+     "#FF671F"
+    ],
+    [
+     "Blue",
+     "#003DA5"
+    ]
+   ]
+  },
+  "mercury": {
+   "name": "Phoenix Mercury",
+   "colors": [
+    [
+     "Purple",
+     "#201747"
+    ],
+    [
+     "Orange",
+     "#CB6015"
+    ],
+    [
+     "Light Gray",
+     "#B1B3B3"
+    ],
+    [
+     "Black",
+     "#000000"
+    ]
+   ]
+  },
+  "fire": {
+   "name": "Portland Fire",
+   "colors": [
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "Soft Black",
+     "#1B1B1B"
+    ],
+    [
+     "Red",
+     "#C8102E"
+    ],
+    [
+     "Pale Blue",
+     "#CEE5EB"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "storm": {
+   "name": "Seattle Storm",
+   "colors": [
+    [
+     "Yellow",
+     "#FBE122"
+    ],
+    [
+     "Green",
+     "#2C5234"
+    ],
+    [
+     "Gray",
+     "#A2AAAD"
+    ]
+   ]
+  },
+  "tempo": {
+   "name": "Toronto Tempo",
+   "colors": [
+    [
+     "Bordeaux",
+     "#441E36"
+    ],
+    [
+     "Dark Bordeaux",
+     "#35182B"
+    ],
+    [
+     "Borealis Blue",
+     "#B3C7E7"
+    ],
+    [
+     "Black",
+     "#000000"
+    ],
+    [
+     "White",
+     "#FFFFFF"
+    ]
+   ]
+  },
+  "mystics": {
+   "name": "Washington Mystics",
+   "colors": [
+    [
+     "Blue",
+     "#0C2340"
+    ],
+    [
+     "Red",
+     "#C8102E"
+    ],
+    [
+     "Silver",
+     "#8A8D8F"
+    ]
+   ]
+  }
+ }
+}

@@ -5,32 +5,45 @@
 \title{NFL colors}
 \usage{
 nfl.colors(
-  set = c("cardinals", "falcons", "ravens", "bills", "panthers", "bears", "bengals",
-    "browns", "cowboys", "broncos", "lions", "packers", "texans", "colts", "jaguars",
-    "chiefs", "chargers", "rams", "dolphins", "vikings", "patriots", "saints", "giants",
-    "jets", "raiders", "eagles", "steelers", "niners", "seahawks", "buccaneers",
-    "titans", "redskins")
+  set = c("bears", "bengals", "bills", "broncos", "browns", "buccaneers", "cardinals",
+    "chargers", "chiefs", "colts", "commanders", "cowboys", "dolphins", "eagles",
+    "falcons", "giants", "jaguars", "jets", "lions", "niners", "packers", "panthers",
+    "patriots", "raiders", "rams", "ravens", "redskins", "saints", "seahawks",
+    "steelers", "texans", "titans", "vikings"),
+  legacy = FALSE
 )
 }
 \arguments{
-\item{set}{Character string denoting an NFL team's color palette.}
+\item{set}{Character string naming an NFL team.
+The retired team name \code{"redskins"} still resolves, to the renamed franchise.}
+
+\item{legacy}{Logical. If \code{TRUE}, return the palette that shipped with colorr
+1.0.1 instead of the current one, so older figures stay reproducible. Not every
+team has a legacy palette; teams added since 1.0.1 will throw an error.}
 }
 \value{
-Vector of character strings from the selected NFL team's color palette.
+Named character vector of hex color strings.
 }
 \description{
-Function returns a vector of character strings from a selected NFL team's color palette. The team options are c("cardinals", "falcons", "ravens", "bills", "panthers", "bears", "bengals", "browns", "cowboys", "broncos", "lions", "packers", "texans", "colts", "jaguars", "chiefs", "chargers", "rams", "dolphins", "vikings", "patriots", "saints", "giants", "jets", "raiders", "eagles", "steelers", "niners", "seahawks", "buccaneers", "titans", "redskins").
+Returns a named character vector of hex colors for an NFL team. Teams cover
+ the 2026 NFL season.
+ Call \code{colorr.teams("nfl")} for the full list of team names.
 }
 \examples{
-\dontrun{
 # Detroit Lions colors
-(pal = nfl.colors("lions"))
+pal <- nfl.colors("lions")
+pal
 pie(rep(1, length(pal)), labels = sprintf("\%d (\%s)", seq_along(pal), pal), col = pal)
 
-# Detroit Broncos colors
-(pal = epl.colors("broncos"))
-pie(rep(1, length(pal)), labels = sprintf("\%d (\%s)", seq_along(pal), pal), col = pal)
+# Denver Broncos colors
+nfl.colors("broncos")
+
+# the palette that shipped with colorr 1.0.1
+nfl.colors("lions", legacy = TRUE)
 }
+\seealso{
+\code{\link{colorr.teams}} to list teams, \code{\link{scale_fill_nfl}} for the
+ ggplot2 scales.
 }
 \author{
 Charles Crabtree \email{charles.crabtree@monash.edu}

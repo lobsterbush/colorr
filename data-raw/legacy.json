@@ -1,0 +1,1968 @@
+{
+ "epl": {
+  "arsenal": [
+   [
+    "Red",
+    "#D01945"
+   ],
+   [
+    "Blue",
+    "#023975"
+   ],
+   [
+    "Yellow",
+    "#FFFF00"
+   ],
+   [
+    "Gold",
+    "#A18651"
+   ]
+  ],
+  "bournemouth": [
+   [
+    "Red",
+    "#BF0C10"
+   ],
+   [
+    "Gold",
+    "#000000"
+   ],
+   [
+    "Black",
+    "#0C0D0F"
+   ]
+  ],
+  "burnley": [
+   [
+    "Purple",
+    "#70193D"
+   ],
+   [
+    "Light Blue",
+    "#93C6E0"
+   ]
+  ],
+  "chelsea": [
+   [
+    "Blue",
+    "#034694"
+   ],
+   [
+    "Gold",
+    "#DBA111"
+   ],
+   [
+    "Red",
+    "#ED1D24"
+   ]
+  ],
+  "crystal_palace": [
+   [
+    "Red",
+    "#C61C3A"
+   ],
+   [
+    "Blue",
+    "#024B90"
+   ]
+  ],
+  "everton": [
+   [
+    "Blue",
+    "#00369C"
+   ]
+  ],
+  "hull": [
+   [
+    "Orange",
+    "#F5A12D"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "leicester": [
+   [
+    "Dark Blue",
+    "#323C8B"
+   ],
+   [
+    "Light Blue",
+    "#656CA7"
+   ],
+   [
+    "Gold",
+    "#EDB32E"
+   ],
+   [
+    "Off White",
+    "#F1F2F6"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "liverpool": [
+   [
+    "Light Red",
+    "#D81E2B"
+   ],
+   [
+    "Light Green",
+    "#03A389"
+   ],
+   [
+    "Dark Green",
+    "#007360"
+   ],
+   [
+    "Gold",
+    "#F9D94A"
+   ],
+   [
+    "Dark Red",
+    "#730000"
+   ]
+  ],
+  "man_city": [
+   [
+    "Dark Blue",
+    "#000A23"
+   ],
+   [
+    "Light Blue",
+    "#6CAEDC"
+   ],
+   [
+    "Gold",
+    "#F0BC6E"
+   ],
+   [
+    "Silver",
+    "#F2F3F3"
+   ],
+   [
+    "Black",
+    "#0B0B0C"
+   ]
+  ],
+  "man_united": [
+   [
+    "Red",
+    "#D81A23"
+   ],
+   [
+    "Yellow",
+    "#F3CA07"
+   ],
+   [
+    "Orange",
+    "#F4A614"
+   ],
+   [
+    "Dark Orange",
+    "#EF8221"
+   ],
+   [
+    "Black",
+    "#131313"
+   ]
+  ],
+  "middlesbrough": [
+   [
+    "Red",
+    "#EF3E42"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "southampton": [
+   [
+    "Red",
+    "#DA272B"
+   ],
+   [
+    "Blue",
+    "#2AA8E0"
+   ],
+   [
+    "Green",
+    "#25A249"
+   ],
+   [
+    "Gold",
+    "#E7B018"
+   ],
+   [
+    "Black",
+    "#100C0C"
+   ]
+  ],
+  "stoke_city": [
+   [
+    "Red",
+    "#D84041"
+   ],
+   [
+    "Light Blue",
+    "#22499F"
+   ],
+   [
+    "Dark Blue",
+    "#004891"
+   ],
+   [
+    "Silver",
+    "#F0F1F1"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "sunderland": [
+   [
+    "Red",
+    "#F22337"
+   ],
+   [
+    "Gold",
+    "#A78D39"
+   ],
+   [
+    "Black",
+    "#151011"
+   ]
+  ],
+  "swansea_city": [
+   [
+    "Silver",
+    "#F2F2F2"
+   ],
+   [
+    "Black",
+    "#110D0D"
+   ]
+  ],
+  "tottenham": [
+   [
+    "Silver",
+    "#F1F1F5"
+   ],
+   [
+    "Blue",
+    "#031C58"
+   ]
+  ],
+  "watford": [
+   [
+    "Yellow",
+    "#FFF61B"
+   ],
+   [
+    "Red",
+    "#E4002D"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "west_bromich_albion": [
+   [
+    "Red",
+    "#AB3C3D"
+   ],
+   [
+    "Blue",
+    "#083272"
+   ],
+   [
+    "Green",
+    "#04A35E"
+   ],
+   [
+    "Brown",
+    "#735435"
+   ],
+   [
+    "Silver",
+    "#F4F2F2"
+   ]
+  ],
+  "west_ham": [
+   [
+    "Purple",
+    "#8E2E44"
+   ],
+   [
+    "Blue",
+    "#3BC5EC"
+   ],
+   [
+    "Gold",
+    "#F5CC59"
+   ]
+  ]
+ },
+ "mlb": {
+  "braves": [
+   [
+    "Red",
+    "#CE1141"
+   ],
+   [
+    "Blue",
+    "#13274F"
+   ]
+  ],
+  "orioles": [
+   [
+    "Orange",
+    "#DF4601"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "red_sox": [
+   [
+    "Red",
+    "#BD3039"
+   ],
+   [
+    "Blue",
+    "#0D2B56"
+   ]
+  ],
+  "cubs": [
+   [
+    "Red",
+    "#CC3433"
+   ],
+   [
+    "Blue",
+    "#0E3386"
+   ]
+  ],
+  "white_sox": [
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Silver",
+    "#C4CED4"
+   ]
+  ],
+  "reds": [
+   [
+    "Red",
+    "#C6011F"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "indians": [
+   [
+    "Red",
+    "#E31937"
+   ],
+   [
+    "Blue",
+    "#002B5C"
+   ]
+  ],
+  "rockies": [
+   [
+    "Purple",
+    "#333366"
+   ],
+   [
+    "Black",
+    "#231F20"
+   ],
+   [
+    "Silver",
+    "#C4CED4"
+   ]
+  ],
+  "tigers": [
+   [
+    "Blue",
+    "#0C2C56"
+   ]
+  ],
+  "astros": [
+   [
+    "Blue",
+    "#002D62"
+   ],
+   [
+    "Orange",
+    "#EB6E1F"
+   ]
+  ],
+  "royals": [
+   [
+    "Blue",
+    "#004687"
+   ],
+   [
+    "Gold",
+    "#C09A5B"
+   ]
+  ],
+  "angels": [
+   [
+    "Red",
+    "#BA0021"
+   ],
+   [
+    "Blue",
+    "#003263"
+   ]
+  ],
+  "dodgers": [
+   [
+    "Red",
+    "#EF3E42"
+   ],
+   [
+    "Blue",
+    "#005A9C"
+   ]
+  ],
+  "marlins": [
+   [
+    "Orange",
+    "#FF6600"
+   ],
+   [
+    "Blue",
+    "#0077C8"
+   ],
+   [
+    "Yellow",
+    "#FFD100"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "brewers": [
+   [
+    "Navy Blue",
+    "#0A2351"
+   ],
+   [
+    "Gold",
+    "#B6922E"
+   ]
+  ],
+  "twins": [
+   [
+    "Blue",
+    "#002B5C"
+   ],
+   [
+    "Red",
+    "#D31145"
+   ]
+  ],
+  "mets": [
+   [
+    "Orange",
+    "#FF5910"
+   ],
+   [
+    "Blue",
+    "#002D72"
+   ]
+  ],
+  "yankees": [
+   [
+    "Red",
+    "#E4002B"
+   ],
+   [
+    "Blue",
+    "#003087"
+   ]
+  ],
+  "athletics": [
+   [
+    "Green",
+    "#003831"
+   ],
+   [
+    "Yellow",
+    "#EFB21E"
+   ]
+  ],
+  "phillies": [
+   [
+    "Blue",
+    "#284898"
+   ],
+   [
+    "Red",
+    "#E81828"
+   ]
+  ],
+  "pirates": [
+   [
+    "Yellow",
+    "#FDB827"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "padres": [
+   [
+    "Blue",
+    "#002D62"
+   ],
+   [
+    "Yellow",
+    "#FEC325"
+   ],
+   [
+    "Brown",
+    "#7F411C"
+   ],
+   [
+    "Silver",
+    "#A0AAB2"
+   ]
+  ],
+  "giants": [
+   [
+    "Orange",
+    "#FD5A1E"
+   ],
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Gold",
+    "#8B6F4E"
+   ]
+  ],
+  "mariners": [
+   [
+    "Blue",
+    "#0C2C56"
+   ],
+   [
+    "Green",
+    "#005C5C"
+   ],
+   [
+    "Silver",
+    "#C4CED4"
+   ]
+  ],
+  "cardinals": [
+   [
+    "Red",
+    "#C41E3A"
+   ],
+   [
+    "Blue",
+    "#000066"
+   ],
+   [
+    "Yellow",
+    "#FEDB00"
+   ]
+  ],
+  "rays": [
+   [
+    "Navy Blue",
+    "#092C5C"
+   ],
+   [
+    "Light Blue",
+    "#8FBCE6"
+   ],
+   [
+    "Yellow",
+    "#F5D130"
+   ]
+  ],
+  "rangers": [
+   [
+    "Red",
+    "#C0111F"
+   ],
+   [
+    "Blue",
+    "#003278"
+   ]
+  ],
+  "blue_jays": [
+   [
+    "Blue",
+    "#134A8E"
+   ],
+   [
+    "Dark Blue",
+    "#1D2D5C"
+   ],
+   [
+    "Red",
+    "#E8291C"
+   ]
+  ],
+  "nationals": [
+   [
+    "Red",
+    "#AB0003"
+   ],
+   [
+    "Blue",
+    "#11225B"
+   ]
+  ],
+  "diamondbacks": [
+   [
+    "Red",
+    "#A71930"
+   ],
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Tan",
+    "#E3D4AD"
+   ]
+  ]
+ },
+ "nba": {
+  "hawks": [
+   [
+    "Hawks Red",
+    "#E03A3E"
+   ],
+   [
+    "Green Volt",
+    "#C3D600"
+   ],
+   [
+    "White",
+    "#FFFFFF"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "hornets": [
+   [
+    "Hornets Purple",
+    "#1D1160"
+   ],
+   [
+    "Teal",
+    "#008CA8"
+   ],
+   [
+    "Gray",
+    "#A1A1A4"
+   ]
+  ],
+  "mavs": [
+   [
+    "Mavericks Blue",
+    "#007DC5"
+   ],
+   [
+    "Mavericks Silver",
+    "#C4CED3"
+   ],
+   [
+    "Mavericks Navy",
+    "#20385B"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "warriors": [
+   [
+    "Warriors Royal Blue",
+    "#006BB6"
+   ],
+   [
+    "Golden Yellow",
+    "#FDB927"
+   ]
+  ],
+  "clippers": [
+   [
+    "Clippers Red",
+    "#ED174C"
+   ],
+   [
+    "Royal Blue",
+    "#006BB6"
+   ],
+   [
+    "Gray",
+    "#A1A1A4"
+   ],
+   [
+    "Navy",
+    "#00285D"
+   ]
+  ],
+  "heat": [
+   [
+    "Heat Red",
+    "#98002E"
+   ],
+   [
+    "Heat Yellow",
+    "#F9A01B"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "pelicans": [
+   [
+    "Pelicans Blue",
+    "#002B5C"
+   ],
+   [
+    "Pelicans Gold",
+    "#B4975A"
+   ],
+   [
+    "Pelicans Red",
+    "#E31937"
+   ]
+  ],
+  "magic": [
+   [
+    "Magic Blue",
+    "#007DC5"
+   ],
+   [
+    "Silver",
+    "#C4CED3"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "blazers": [
+   [
+    "Blazers Red",
+    "#F0163A"
+   ],
+   [
+    "Silver",
+    "#B6BFBF"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "raptors": [
+   [
+    "Raptors Red",
+    "#CE1141"
+   ],
+   [
+    "Raptors Silver",
+    "#C4CED3"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "celtics": [
+   [
+    "Celtics Green",
+    "#008348"
+   ],
+   [
+    "Gold",
+    "#FFD700"
+   ],
+   [
+    "Silver",
+    "#C0C0C0"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "bulls": [
+   [
+    "Bulls Red",
+    "#CE1141"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "nuggets": [
+   [
+    "Nuggets Light Blue",
+    "#4FA8FF"
+   ],
+   [
+    "Nuggets Gold",
+    "#FFB20F"
+   ],
+   [
+    "Nuggets Navy",
+    "#004770"
+   ]
+  ],
+  "rockets": [
+   [
+    "Rockets Red",
+    "#CE1141"
+   ],
+   [
+    "Silver",
+    "#C4CED3"
+   ],
+   [
+    "Mustard",
+    "#FDB927"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "lakers": [
+   [
+    "Lakers Purple",
+    "#552582"
+   ],
+   [
+    "Lakers Gold",
+    "#FDB927"
+   ]
+  ],
+  "bucks": [
+   [
+    "Dark Green",
+    "#00471B"
+   ],
+   [
+    "Bucks Cream",
+    "#EEE1C6"
+   ],
+   [
+    "Light Royal Blue",
+    "#0077C0"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "knicks": [
+   [
+    "Knicks Blue",
+    "#006BB6"
+   ],
+   [
+    "Orange",
+    "#F58426"
+   ],
+   [
+    "Silver",
+    "#BEC0C2"
+   ]
+  ],
+  "sixers": [
+   [
+    "76ers Blue",
+    "#006BB6"
+   ],
+   [
+    "76ers Red",
+    "#ED174C"
+   ]
+  ],
+  "kings": [
+   [
+    "Kings Purple",
+    "#724C9F"
+   ],
+   [
+    "Kings Silver",
+    "#8E9090"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "jazz": [
+   [
+    "Jazz Navy",
+    "#002B5C"
+   ],
+   [
+    "Jazz Yellow",
+    "#F9A01B"
+   ],
+   [
+    "Jazz Green",
+    "#00471B"
+   ],
+   [
+    "Jazz Gray",
+    "#BEC0C2"
+   ]
+  ],
+  "nets": [
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "cavs": [
+   [
+    "Cavaliers Wine",
+    "#860038"
+   ],
+   [
+    "Cavaliers Gold",
+    "#FDBB30"
+   ],
+   [
+    "Cavaliers Navy",
+    "#002D62"
+   ]
+  ],
+  "pistons": [
+   [
+    "Pistons Blue",
+    "#006BB6"
+   ],
+   [
+    "Pistons Red",
+    "#ED174C"
+   ],
+   [
+    "Pistons Navy",
+    "#001F70"
+   ]
+  ],
+  "pacers": [
+   [
+    "Pacers Blue",
+    "#00275D"
+   ],
+   [
+    "Gold",
+    "#FFC633"
+   ],
+   [
+    "Silver",
+    "#BEC0C2"
+   ]
+  ],
+  "grizzlies": [
+   [
+    "Memphis Midnight Blue",
+    "#23375B"
+   ],
+   [
+    "Beale Street Blue",
+    "#6189B9"
+   ],
+   [
+    "Smoke Blue",
+    "#BBD1E4"
+   ],
+   [
+    "Grizzlies Gold",
+    "#FFD432"
+   ]
+  ],
+  "wolves": [
+   [
+    "Timberwolves Blue",
+    "#005083"
+   ],
+   [
+    "Silver",
+    "#C4CED3"
+   ],
+   [
+    "Green",
+    "#00A94F"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "thunder": [
+   [
+    "Thunder Blue",
+    "#007DC3"
+   ],
+   [
+    "Orange",
+    "#F05133"
+   ],
+   [
+    "Yellow",
+    "#FDBB30"
+   ],
+   [
+    "Dark Blue",
+    "#002D62"
+   ]
+  ],
+  "suns": [
+   [
+    "Suns Orange",
+    "#E56020"
+   ],
+   [
+    "Suns Purple",
+    "#1D1160"
+   ],
+   [
+    "Suns Gray",
+    "#63717A"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "spurs": [
+   [
+    "Silver",
+    "#B6BFBF"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "wizards": [
+   [
+    "Navy",
+    "#002566"
+   ],
+   [
+    "Red",
+    "#F5002F"
+   ],
+   [
+    "Silver",
+    "#C2CCCC"
+   ]
+  ],
+  "sonics": [
+   [
+    "Sonics Green",
+    "#016332"
+   ],
+   [
+    "Sonics Yellow",
+    "#FCE10C"
+   ]
+  ]
+ },
+ "nfl": {
+  "cardinals": [
+   [
+    "Burgundy",
+    "#97233F"
+   ],
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Yellow",
+    "#FFB612"
+   ],
+   [
+    "Silver",
+    "#A5ACAF"
+   ]
+  ],
+  "falcons": [
+   [
+    "Red",
+    "#A71930"
+   ],
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Silver",
+    "#A5ACAF"
+   ]
+  ],
+  "ravens": [
+   [
+    "Purple",
+    "#241773"
+   ],
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Gold",
+    "#9E7C0C"
+   ],
+   [
+    "Red",
+    "#C60C30"
+   ]
+  ],
+  "bills": [
+   [
+    "Blue",
+    "#00338D"
+   ],
+   [
+    "Red",
+    "#C60C30"
+   ]
+  ],
+  "panthers": [
+   [
+    "Blue",
+    "#0085CA"
+   ],
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Silver",
+    "#BFC0BF"
+   ]
+  ],
+  "bears": [
+   [
+    "Navy Blue",
+    "#0B162A"
+   ],
+   [
+    "Orange",
+    "#C83803"
+   ]
+  ],
+  "bengals": [
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Orange",
+    "#FB4F14"
+   ]
+  ],
+  "browns": [
+   [
+    "Orange",
+    "#FB4F14"
+   ],
+   [
+    "Brown",
+    "#22150C"
+   ],
+   [
+    "Silver",
+    "#A5ACAF"
+   ]
+  ],
+  "cowboys": [
+   [
+    "Dark Blue",
+    "#002244"
+   ],
+   [
+    "Light Silver",
+    "#B0B7BC"
+   ],
+   [
+    "Light Blue",
+    "#ACC0C6"
+   ],
+   [
+    "Silver",
+    "#A5ACAF"
+   ],
+   [
+    "Blue",
+    "#00338D"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "broncos": [
+   [
+    "Navy Blue",
+    "#002244"
+   ],
+   [
+    "Orange",
+    "#FB4F14"
+   ]
+  ],
+  "lions": [
+   [
+    "Blue",
+    "#005A8B"
+   ],
+   [
+    "Silver",
+    "#B0B7BC"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "packers": [
+   [
+    "Dark Green",
+    "#203731"
+   ],
+   [
+    "Yellow",
+    "#FFB612"
+   ]
+  ],
+  "texans": [
+   [
+    "Navy Blue",
+    "#03202F"
+   ],
+   [
+    "Red",
+    "#A71930"
+   ]
+  ],
+  "colts": [
+   [
+    "Blue",
+    "#002C5F"
+   ],
+   [
+    "Silver",
+    "#A5ACAF"
+   ]
+  ],
+  "jaguars": [
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Teal",
+    "#006778"
+   ],
+   [
+    "Dark Gold",
+    "#9F792C"
+   ],
+   [
+    "Light Gold",
+    "#D7A22A"
+   ]
+  ],
+  "chiefs": [
+   [
+    "Red",
+    "#E31837"
+   ],
+   [
+    "Yellow",
+    "#FFB612"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "chargers": [
+   [
+    "Navy Blue",
+    "#002244"
+   ],
+   [
+    "Light Blue",
+    "#0073CF"
+   ],
+   [
+    "Yellow",
+    "#FFB612"
+   ]
+  ],
+  "rams": [
+   [
+    "Navy Blue",
+    "#002244"
+   ],
+   [
+    "Gold",
+    "#B3995D"
+   ]
+  ],
+  "dolphins": [
+   [
+    "Teal",
+    "#008E97"
+   ],
+   [
+    "Orange",
+    "#F58220"
+   ],
+   [
+    "Blue",
+    "#005778"
+   ]
+  ],
+  "vikings": [
+   [
+    "Purple",
+    "#4F2683"
+   ],
+   [
+    "Yellow",
+    "#FFC62F"
+   ],
+   [
+    "Tan",
+    "#E9BF9B"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "patriots": [
+   [
+    "Red",
+    "#C60C30"
+   ],
+   [
+    "Silver",
+    "#B0B7BC"
+   ]
+  ],
+  "saints": [
+   [
+    "Gold",
+    "#9F8958"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "giants": [
+   [
+    "Blue",
+    "#0B2265"
+   ],
+   [
+    "Red",
+    "#A71930"
+   ],
+   [
+    "Silver",
+    "#A5ACAF"
+   ]
+  ],
+  "jets": [
+   [
+    "Green",
+    "#203731"
+   ]
+  ],
+  "raiders": [
+   [
+    "Silver",
+    "#A5ACAF"
+   ],
+   [
+    "Black",
+    "#000000"
+   ]
+  ],
+  "eagles": [
+   [
+    "Dark Green",
+    "#004953"
+   ],
+   [
+    "Silver",
+    "#A5ACAF"
+   ],
+   [
+    "Light Blue",
+    "#ACC0C6"
+   ],
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Dark Silver",
+    "#565A5C"
+   ]
+  ],
+  "steelers": [
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Yellow",
+    "#FFB612"
+   ],
+   [
+    "Red",
+    "#C60C30"
+   ],
+   [
+    "Blue",
+    "#00539B"
+   ],
+   [
+    "Silver",
+    "#A5ACAF"
+   ]
+  ],
+  "niners": [
+   [
+    "Red",
+    "#AA0000"
+   ],
+   [
+    "Gold",
+    "#B3995D"
+   ],
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Silver",
+    "#A5ACAF"
+   ]
+  ],
+  "seahawks": [
+   [
+    "Blue",
+    "#002244"
+   ],
+   [
+    "Green",
+    "#69BE28"
+   ],
+   [
+    "Silver",
+    "#A5ACAF"
+   ]
+  ],
+  "buccaneers": [
+   [
+    "Red",
+    "#D50A0A"
+   ],
+   [
+    "Dark Silver",
+    "#34302B"
+   ],
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Orange",
+    "#FF7900"
+   ],
+   [
+    "Silver",
+    "#B1BABF"
+   ]
+  ],
+  "titans": [
+   [
+    "Navy Blue",
+    "#002244"
+   ],
+   [
+    "Bright Blue",
+    "#4B92DB"
+   ],
+   [
+    "Red",
+    "#C60C30"
+   ],
+   [
+    "Silver",
+    "#A5ACAF"
+   ]
+  ],
+  "redskins": [
+   [
+    "Merlot",
+    "#773141"
+   ],
+   [
+    "Yellow",
+    "#FFB612"
+   ],
+   [
+    "Black",
+    "#000000"
+   ],
+   [
+    "Dark Merlot",
+    "#5B2B2F"
+   ]
+  ]
+ },
+ "nhl": {
+  "ducks": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Silver",
+    "#A2AAAD"
+   ],
+   [
+    "Orange",
+    "#FC4C02"
+   ],
+   [
+    "Gold",
+    "#85714D"
+   ]
+  ],
+  "coyotes": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Maroon",
+    "#862633"
+   ],
+   [
+    "Tan",
+    "#DDCBA4"
+   ]
+  ],
+  "bruins": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Yellow",
+    "#FFB81C"
+   ]
+  ],
+  "sabres": [
+   [
+    "Navy Blue",
+    "#041E42"
+   ],
+   [
+    "Silver",
+    "#A2AAAD"
+   ],
+   [
+    "Yellow",
+    "#FFB81C"
+   ],
+   [
+    "Red",
+    "#C8102E"
+   ]
+  ],
+  "flames": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Yellow",
+    "#F1BE48"
+   ],
+   [
+    "Red",
+    "#C8102E"
+   ]
+  ],
+  "hurricanes": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Silver",
+    "#A2AAAD"
+   ],
+   [
+    "Red",
+    "#C8102E"
+   ]
+  ],
+  "blackhawks": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Yellow",
+    "#FFD100"
+   ],
+   [
+    "Blue",
+    "#001871"
+   ],
+   [
+    "Red",
+    "#C8102E"
+   ],
+   [
+    "Green",
+    "#00843D"
+   ],
+   [
+    "Gold",
+    "#CC8A00"
+   ]
+  ],
+  "avalanche": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Blue",
+    "#236192"
+   ],
+   [
+    "Silver",
+    "#A4A9AD"
+   ],
+   [
+    "Purple",
+    "#6F263D"
+   ]
+  ],
+  "blue_jackets": [
+   [
+    "Navy Blue",
+    "#041E42"
+   ],
+   [
+    "Silver",
+    "#A4A9AD"
+   ],
+   [
+    "Red",
+    "#C8102E"
+   ]
+  ],
+  "stars": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Green",
+    "#006341"
+   ],
+   [
+    "Silver",
+    "#8A8D8F"
+   ]
+  ],
+  "red_wings": [
+   [
+    "Red",
+    "#C8102E"
+   ]
+  ],
+  "oilers": [
+   [
+    "Navy Blue",
+    "#00205B"
+   ],
+   [
+    "Orange",
+    "#CF4520"
+   ]
+  ],
+  "panthers": [
+   [
+    "Navy Blue",
+    "#041E42"
+   ],
+   [
+    "Gold",
+    "#B9975B"
+   ],
+   [
+    "Red",
+    "#C8102E"
+   ]
+  ],
+  "kings": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Silver",
+    "#A2AAAD"
+   ]
+  ],
+  "wild": [
+   [
+    "Green",
+    "#154734"
+   ],
+   [
+    "Tan",
+    "#DDCBA4"
+   ],
+   [
+    "Yellow",
+    "#EAAA00"
+   ],
+   [
+    "Red",
+    "#A6192E"
+   ]
+  ],
+  "canadiens": [
+   [
+    "Navy Blue",
+    "#001E62"
+   ],
+   [
+    "Red",
+    "#A6192E"
+   ]
+  ],
+  "predators": [
+   [
+    "Navy Blue",
+    "#041E42"
+   ],
+   [
+    "Yellow",
+    "#FFB81C"
+   ]
+  ],
+  "devils": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Red",
+    "#C8102E"
+   ]
+  ],
+  "islanders": [
+   [
+    "Blue",
+    "#003087"
+   ],
+   [
+    "Orange",
+    "#FC4C02"
+   ]
+  ],
+  "rangers": [
+   [
+    "Blue",
+    "#0033A0"
+   ],
+   [
+    "Red",
+    "#C8102E"
+   ]
+  ],
+  "senators": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Red",
+    "#C8102E"
+   ],
+   [
+    "Gold",
+    "#C69214"
+   ]
+  ],
+  "flyers": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Orange",
+    "#FA4616"
+   ]
+  ],
+  "penguins": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Yellow",
+    "#FFB81C"
+   ]
+  ],
+  "sharks": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Orange",
+    "#E57200"
+   ],
+   [
+    "Teal",
+    "#006272"
+   ]
+  ],
+  "blues": [
+   [
+    "Navy Blue",
+    "#041E42"
+   ],
+   [
+    "Blue",
+    "#FFB81C"
+   ],
+   [
+    "Yellow",
+    "#003087"
+   ]
+  ],
+  "lightning": [
+   [
+    "",
+    "#00205B"
+   ]
+  ],
+  "maple_leafs": [
+   [
+    "",
+    "#00205B"
+   ]
+  ],
+  "canucks": [
+   [
+    "Blue",
+    "#00205B"
+   ],
+   [
+    "Silver",
+    "#97999B"
+   ],
+   [
+    "Dark Blue",
+    "#041C2C"
+   ]
+  ],
+  "golden_knights": [
+   [
+    "Black",
+    "#010101"
+   ],
+   [
+    "Gold",
+    "#B4975A"
+   ],
+   [
+    "Gray",
+    "#333F42"
+   ]
+  ],
+  "capitals": [
+   [
+    "Navy Blue",
+    "#041E42"
+   ],
+   [
+    "Silver",
+    "#A2AAAD"
+   ],
+   [
+    "Purple",
+    "#782F40"
+   ],
+   [
+    "Red",
+    "#A6192E"
+   ],
+   [
+    "Gray",
+    "#53565A"
+   ]
+  ],
+  "jets": [
+   [
+    "Navy Blue",
+    "#041E42"
+   ],
+   [
+    "Red",
+    "#C8102E"
+   ]
+  ]
+ }
+}

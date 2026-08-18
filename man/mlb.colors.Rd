@@ -5,31 +5,45 @@
 \title{MLB colors}
 \usage{
 mlb.colors(
-  set = c("diamondbacks", "braves", "orioles", "red_sox", "cubs", "white_sox", "reds",
-    "indians", "rockies", "tigers", "astros", "royals", "angels", "dodgers", "marlins",
-    "brewers", "twins", "mets", "yankees", "athletics", "phillies", "pirates", "padres",
-    "giants", "mariners", "cardinals", "rays", "rangers", "blue_jays", "nationals")
+  set = c("angels", "astros", "athletics", "blue_jays", "braves", "brewers", "cardinals",
+    "cubs", "diamondbacks", "dodgers", "giants", "guardians", "indians", "mariners",
+    "marlins", "mets", "nationals", "orioles", "padres", "phillies", "pirates",
+    "rangers", "rays", "red_sox", "reds", "rockies", "royals", "tigers", "twins",
+    "white_sox", "yankees"),
+  legacy = FALSE
 )
 }
 \arguments{
-\item{set}{Character string denoting an MLB team's color palette.}
+\item{set}{Character string naming an MLB team.
+The retired team name \code{"indians"} still resolves, to the renamed franchise.}
+
+\item{legacy}{Logical. If \code{TRUE}, return the palette that shipped with colorr
+1.0.1 instead of the current one, so older figures stay reproducible. Not every
+team has a legacy palette; teams added since 1.0.1 will throw an error.}
 }
 \value{
-Vector of character strings from the selected MLB team's color palette.
+Named character vector of hex color strings.
 }
 \description{
-Function returns a vector of character strings from a selected MLB team's color palette. The team options are c("diamondbacks", "braves", "orioles", "red_sox", "cubs", "white_sox", "reds", "indians", "rockies", "tigers", "astros", "royals", "angels", "dodgers", "marlins", "brewers", "twins", "mets", "yankees", "athletics", "phillies", "pirates", "padres", "giants", "mariners", "cardinals", "rays", "rangers", "blue_jays", "nationals").
+Returns a named character vector of hex colors for an MLB team. Teams cover
+ the 2026 Major League Baseball season.
+ Call \code{colorr.teams("mlb")} for the full list of team names.
 }
 \examples{
-\dontrun{
 # Colorado Rockies colors
-(pal = mlb.colors("rockies"))
+pal <- mlb.colors("rockies")
+pal
 pie(rep(1, length(pal)), labels = sprintf("\%d (\%s)", seq_along(pal), pal), col = pal)
 
 # Seattle Mariners colors
-(pal = mlb.colors("mariners"))
-pie(rep(1, length(pal)), labels = sprintf("\%d (\%s)", seq_along(pal), pal), col = pal)
+mlb.colors("mariners")
+
+# the palette that shipped with colorr 1.0.1
+mlb.colors("rockies", legacy = TRUE)
 }
+\seealso{
+\code{\link{colorr.teams}} to list teams, \code{\link{scale_fill_mlb}} for the
+ ggplot2 scales.
 }
 \author{
 Charles Crabtree \email{charles.crabtree@monash.edu}
