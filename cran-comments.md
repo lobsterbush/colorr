@@ -11,9 +11,11 @@
 
 The maintainer has not changed. I am the same person and the sole author of the
 package. The address on the 2017 release, ccrabtr@umich.edu, was my University of
-Michigan graduate address; I have since moved to Monash University, and
-charles.crabtree@monash.edu is my current institutional address. Please let me know
-what confirmation you would like for the change and I will provide it.
+Michigan address; I have since moved to Monash University, and
+charles.crabtree@monash.edu is my current institutional address.
+
+I still have access to ccrabtr@umich.edu and am happy to confirm the change from that
+address. Please let me know if you would like me to.
 
 ## Test environments
 
