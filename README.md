@@ -1,4 +1,4 @@
-[![colorr: Human > AI 👤>🤖](man/figures/provenance.svg)](https://thelatentreview.com/provenance/)
+[![colorr: Human – AI (editor) 👤✏️🤖](man/figures/provenance.svg)](https://thelatentreview.com/provenance/)
 
 [![CRAN status](https://www.r-pkg.org/badges/version/colorr)](https://CRAN.R-project.org/package=colorr)
 [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/colorr)](https://CRAN.R-project.org/package=colorr)
@@ -146,9 +146,12 @@ Also, thanks to [Hadley Wickham](https://hadley.nz/) for his excellent book,
 
 Browse the [documentation and function reference](https://lobsterbush.github.io/colorr/).
 
-**Human > AI 👤>🤖** — declared by Charles Crabtree: human led, with meaningful
-AI contributions to the work and ideas. This declaration covers the package
-and its documentation; the documentation build used OpenAI Codex.
+**Human – AI (editor) 👤✏️🤖**
+
+All initial versions were created entirely by the human authors, without AI.
+AI was used only for subsequent updates and code fixes. This provenance
+declaration is supplied by Charles Crabtree.
+
 The label follows [The Latent Review’s provenance standard](https://thelatentreview.com/provenance/),
 shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 The software remains MIT licensed.

@@ -8,7 +8,9 @@
 <p class="hero-meta">Charles Crabtree</p>
 </div>
 
-[![colorr: Human > AI 👤>🤖](reference/figures/provenance.svg)](https://thelatentreview.com/provenance/)
+[![colorr: Human – AI (editor) 👤✏️🤖](reference/figures/provenance.svg)](https://thelatentreview.com/provenance/)
+
+**Initial versions: entirely human-created.** AI was used only for later updates and code fixes.
 
 ## Quick start
 
@@ -55,9 +57,11 @@ the older palette. See the reference for aliases and supported leagues.
 
 ## Provenance
 
-**Human > AI 👤>🤖** — declared by Charles Crabtree: human led, with meaningful
-AI contributions to the work and ideas. This declaration covers the package
-and its documentation. The documentation build used OpenAI Codex.
+**Human – AI (editor) 👤✏️🤖**
+
+All initial versions were created entirely by the human authors, without AI.
+AI was used only for subsequent updates and code fixes. This provenance
+declaration is supplied by Charles Crabtree.
 
 The label and mark follow [The Latent Review’s provenance standard](https://thelatentreview.com/provenance/),
 shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
