@@ -3,7 +3,9 @@
 [![CRAN status](https://www.r-pkg.org/badges/version/colorr)](https://CRAN.R-project.org/package=colorr)
 [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/colorr)](https://CRAN.R-project.org/package=colorr)
 
-# colorr: color palettes for sports teams
+# colorr: color palettes for sports teams <a href="https://lobsterbush.github.io/colorr/"><img src="man/figures/logo.png" align="right" width="140" alt="colorr hex sticker" /></a>
+
+[Package documentation](https://lobsterbush.github.io/colorr/) · [Function reference](https://lobsterbush.github.io/colorr/reference/index.html)
 
 Color palettes for 276 professional sports teams across 11 leagues, as named character
 vectors of hex colors and as ggplot2 colour and fill scales.
