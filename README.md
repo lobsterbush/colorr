@@ -1,3 +1,5 @@
+[![colorr: Human > AI 👤>🤖](man/figures/provenance.svg)](https://thelatentreview.com/provenance/)
+
 [![CRAN status](https://www.r-pkg.org/badges/version/colorr)](https://CRAN.R-project.org/package=colorr)
 [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/colorr)](https://CRAN.R-project.org/package=colorr)
 
@@ -138,3 +140,27 @@ clubs' own brand assets. `data-raw/provenance.json` records the source for every
 
 Also, thanks to [Hadley Wickham](https://hadley.nz/) for his excellent book,
 [_R Packages_](https://r-pkgs.org/).
+
+
+## Documentation and provenance
+
+Browse the [documentation and function reference](https://lobsterbush.github.io/colorr/).
+
+**Human > AI 👤>🤖** — declared by Charles Crabtree: human led, with meaningful
+AI contributions to the work and ideas. This declaration covers the package
+and its documentation; the documentation build used OpenAI Codex.
+The label follows [The Latent Review’s provenance standard](https://thelatentreview.com/provenance/),
+shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The software remains MIT licensed.
+
+## Build the documentation
+
+Install R and the package dependencies listed in `DESCRIPTION`, then install
+`pkgdown` and `here`. From the repository root, run:
+
+```r
+source(here::here("data-raw", "01_build_site.R"))
+```
+
+The site is built locally in `docs/`. Publish the rendered contents to the
+`gh-pages` branch; GitHub Pages serves that branch. No Actions workflow is needed.

@@ -13,3 +13,6 @@
 ^\.DS_Store$
 ^\.github$
 ^\.claude$
+^_pkgdown\.yml$
+^pkgdown$
+^docs$
