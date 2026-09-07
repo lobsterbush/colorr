@@ -7,8 +7,11 @@
 
 [Package documentation](https://lobsterbush.github.io/colorr/) · [Function reference](https://lobsterbush.github.io/colorr/reference/index.html)
 
-Color palettes for 276 professional sports teams across 11 leagues, as named character
-vectors of hex colors and as ggplot2 colour and fill scales.
+I built `colorr` so I could use a team's colours in a figure without looking up
+each hex code. It includes 276 professional teams across 11 leagues. You can
+use the colours directly or add them to a ggplot with a colour or fill scale.
+
+Author: Charles Crabtree.
 
 ## Coverage
 
@@ -97,13 +100,13 @@ returns the Commanders palette.
 
 ## Installation
 
-The latest stable version can be installed from CRAN.
+Install the CRAN release with:
 
 ```r
 install.packages("colorr")
 ```
 
-The latest development version on GitHub can be installed using remotes.
+This site describes the development version. Install it from GitHub for the expanded league coverage:
 
 ```r
 if (!require("remotes")) install.packages("remotes")
@@ -116,8 +119,8 @@ Please use the [issue tracker](https://github.com/lobsterbush/colorr/issues) for
 questions, or feature requests. If you would rather email, you can contact
 [Charles Crabtree](mailto:charles.crabtree@monash.edu).
 
-If you would like to contribute to the package, that is great! I welcome pull requests and
-new developers.
+I welcome pull requests. If a palette is wrong or missing, please include the
+team's name and a source for its colours.
 
 ## Tests
 
@@ -150,9 +153,8 @@ Browse the [documentation and function reference](https://lobsterbush.github.io/
 
 **Human – AI (editor) 👤✏️🤖**
 
-All initial versions were created entirely by the human authors, without AI.
-AI was used only for subsequent updates and code fixes. This provenance
-declaration is supplied by Charles Crabtree.
+I wrote every initial version myself, without AI. I've used AI only for later
+updates and code fixes. This is my account of how the package was made.
 
 The label follows [The Latent Review’s provenance standard](https://thelatentreview.com/provenance/),
 shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
@@ -168,4 +170,4 @@ source(here::here("data-raw", "01_build_site.R"))
 ```
 
 The site is built locally in `docs/`. Publish the rendered contents to the
-`gh-pages` branch; GitHub Pages serves that branch. No Actions workflow is needed.
+`gh-pages` branch; GitHub Pages serves that branch.

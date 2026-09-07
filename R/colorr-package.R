@@ -1,6 +1,6 @@
 #'@title colorr: color palettes for sports teams
-#'@description colorr provides color palettes for professional sports teams as named
-#'  character vectors of hex colors, and as ggplot2 colour and fill scales.
+#'@description I built colorr to use team colours in R figures without looking up each hex
+#'  code. Choose a named colour vector or add a colour or fill scale to a ggplot.
 #'@details
 #'  Palette functions, one per league:
 #'  \code{\link{epl.colors}}, \code{\link{soccer.colors}}, \code{\link{mlb.colors}},
@@ -8,7 +8,7 @@
 #'  \code{\link{nhl.colors}}. \code{\link{colorr.colors}} does the same job when the
 #'  league is itself a variable.
 #'
-#'  To find out what is available, use \code{\link{colorr.leagues}} and
+#'  To see which teams are included, use \code{\link{colorr.leagues}} and
 #'  \code{\link{colorr.teams}}.
 #'
 #'  For ggplot2, every league has \code{scale_colour_*}, \code{scale_color_*} and
